@@ -19,6 +19,7 @@ The template to follow when adding new writeups:
 
 
 ### 2020:
+- **[Dec 11 - $ 7,500]** [How I hacked Facebook: Part One](https://alaa.blog/2020/12/how-i-hacked-facebook-part-one/) by [Alaa Abdulridha](https://www.facebook.com/alaa.abdulridha.716)
 - **[Nov 13 - $ 10,000]** [Facebook SSRF](https://medium.com/@amineaboud/10000-facebook-ssrf-bug-bounty-402bd21e58e5) by [Amine Aboud](https://twitter.com/amineaboud)
 - **[Nov 13 - $ 500]** [Replying Comments On Someone’s LiveStream From Page is Posted as Personal Identity](https://medium.com/@prakashpanta1999/replying-comments-on-someones-livestream-from-page-is-posted-as-personal-identity-5fe79ef78b28) by [Prakash Panta](https://twitter.com/Prakashpanta268)
 - **[Nov 13 - $ 16,125]** [How I Found The Facebook Messenger Leaking Access Token Of Million Users](https://medium.com/@guhanraja/how-i-found-the-facebook-messenger-leaking-access-token-of-million-users-8ee4b3f1e5e3) by [Guhan Raja](https://twitter.com/havocgwen)
