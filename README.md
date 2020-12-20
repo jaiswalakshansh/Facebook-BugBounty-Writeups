@@ -19,6 +19,7 @@ The template to follow when adding new writeups:
 
 
 ### 2020:
+- **[Dec 20 - $ 13,125]** [How I was able to view anyone’s private email and birthday](https://saugatpokharel.medium.com/this-is-how-i-was-able-to-view-anyones-private-email-and-birthday-on-instagram-1469f44b842b) by [Saugat Pokharel](https://twitter.com/saugatpk5)
 - **[Dec 12 - $ 5,000]** [Confirm an email address belonging to a specific user](https://medium.com/@yaala/confirm-an-email-address-belonging-to-a-specific-user-fe9c305e0af) by [Abdellah Yaala](https://medium.com/@yaala)
 - **[Dec 11 - $ 7,500]** [How I hacked Facebook: Part One](https://alaa.blog/2020/12/how-i-hacked-facebook-part-one/) by [Alaa Abdulridha](https://www.facebook.com/alaa.abdulridha.716)
 - **[Nov 13 - $ 10,000]** [Facebook SSRF](https://medium.com/@amineaboud/10000-facebook-ssrf-bug-bounty-402bd21e58e5) by [Amine Aboud](https://twitter.com/amineaboud)
