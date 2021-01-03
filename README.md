@@ -17,6 +17,8 @@ The template to follow when adding new writeups:
 
 ## Writeups
 
+### 2021:-
+- **[Jan 01 - $ 30,000]** [XSS on forums.oculusvr.com](https://ysamm.com/?p=525)  by [Samm0uda](https://twitter.com/samm0uda)
 
 ### 2020:- 
 - **[Dec 31 - $ 10,000]** [Account takeovers in third party websites](https://ysamm.com/?p=510) by [Samm0uda](https://twitter.com/samm0uda)
