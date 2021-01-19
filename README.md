@@ -18,6 +18,10 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
+- **[Jan 08 - $ 30,000]** [Create post on any Facebook page](https://www.darabi.me/2020/12/create-invisible-post-on-any-facebook.html)  by [Pouya Darabi](https://twitter.com/Pouyadarabi)
+- **[Jan 08 - $ ???]** [Facebook: Linkshim protection bypass using fb://webview](https://servicenger.com/blog/mobile/facebook-linkshim-protection-bypass-using-fb-webview/)  by [Rahul Kankrale](https://twitter.com/RahulKankrale)
+- **[Jan 04 - $ 5,000]** [Bypass of a FaceBook Page Admin Disclosure](https://savebreach.com/facebook-page-admin-identity-disclosure-through-document-edit-history/)  by [Shubham Bhamare](https://twitter.com/theshubh77)
+- **[Jan 03 - $ 5,000]** [Expose the email address of Workplace users](https://ysamm.com/?p=588)  by [Samm0uda](https://twitter.com/samm0uda)
 - **[Jan 01 - $ 30,000]** [XSS on forums.oculusvr.com](https://ysamm.com/?p=525)  by [Samm0uda](https://twitter.com/samm0uda)
 
 ### 2020:- 
