@@ -18,6 +18,8 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
+- **[Jan 28 - $ 4,000]** [Launching Internal & Non-Exported Deeplinks](https://ash-king.co.uk/blog/Launching-internal-non-exported-deeplinks-on-Facebook)  by [Ashley King](https://twitter.com/AshleyKingUK)
+- **[Jan 14 - $ 1,000]** [Irremovable Facebook group album photos](https://theshubh77.medium.com/irremovable-facebook-group-album-photos-and-entire-album-under-certain-circumstances-bounty-1000-b1b2a870b8e0)  by [Shubham Bhamare](https://twitter.com/theshubh77)
 - **[Jan 08 - $ 30,000]** [Create post on any Facebook page](https://www.darabi.me/2020/12/create-invisible-post-on-any-facebook.html)  by [Pouya Darabi](https://twitter.com/Pouyadarabi)
 - **[Jan 08 - $ ???]** [Facebook: Linkshim protection bypass using fb://webview](https://servicenger.com/blog/mobile/facebook-linkshim-protection-bypass-using-fb-webview/)  by [Rahul Kankrale](https://twitter.com/RahulKankrale)
 - **[Jan 04 - $ 5,000]** [Bypass of a FaceBook Page Admin Disclosure](https://savebreach.com/facebook-page-admin-identity-disclosure-through-document-edit-history/)  by [Shubham Bhamare](https://twitter.com/theshubh77)
