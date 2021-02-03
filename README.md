@@ -18,6 +18,7 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
+- **[Feb 02 - $ ???]** [Access developer tasks list of any Facebook Application](https://amineaboud.medium.com/access-developer-tasks-list-of-any-of-facebook-application-graphql-idor-62307c5e5b34) by [Amine Aboud](https://twitter.com/amineaboud)
 - **[Jan 28 - $ 4,000]** [Launching Internal & Non-Exported Deeplinks](https://ash-king.co.uk/blog/Launching-internal-non-exported-deeplinks-on-Facebook)  by [Ashley King](https://twitter.com/AshleyKingUK)
 - **[Jan 14 - $ 1,000]** [Irremovable Facebook group album photos](https://theshubh77.medium.com/irremovable-facebook-group-album-photos-and-entire-album-under-certain-circumstances-bounty-1000-b1b2a870b8e0)  by [Shubham Bhamare](https://twitter.com/theshubh77)
 - **[Jan 08 - $ 30,000]** [Create post on any Facebook page](https://www.darabi.me/2020/12/create-invisible-post-on-any-facebook.html)  by [Pouya Darabi](https://twitter.com/Pouyadarabi)
