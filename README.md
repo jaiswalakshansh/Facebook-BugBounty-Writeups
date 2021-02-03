@@ -1,6 +1,6 @@
 # Facebook-BugBounty-Writeups
 
-Inspiring from [xdavidhu](https://github.com/xdavidhu/awesome-google-vrp-writeups) & [1hack0](https://github.com/1hack0/Facebook-Bug-Bounty-Write-ups) this is a repo which contains Facebooks Updated BugBounty Writeups.
+Inspired from [xdavidhu](https://github.com/xdavidhu/awesome-google-vrp-writeups) & [1hack0](https://github.com/1hack0/Facebook-Bug-Bounty-Write-ups) this is a repo which contains Facebooks Updated BugBounty Writeups.
 
 
 ## Contributing:
