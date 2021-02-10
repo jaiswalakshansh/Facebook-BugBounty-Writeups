@@ -18,6 +18,7 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
+- **[Feb 10 - $ ???]**  [Sending ephemeral message to any Facebook user](https://servicenger.com/blog/mobile/sending-ephemeral-message-to-any-facebook-user/)  by [Rahul Kankrale](https://twitter.com/RahulKankrale)
 - **[Feb 03 - $ 2,000]** [Facebook Messenger Desktop App Arbitrary File Read](https://medium.com/@renwa/facebook-messenger-desktop-app-arbitrary-file-read-db2374550f6d) by [Renwa](https://twitter.com/RenwaX23) 
 - **[Feb 02 - $ ???]** [Access developer tasks list of any Facebook Application](https://amineaboud.medium.com/access-developer-tasks-list-of-any-of-facebook-application-graphql-idor-62307c5e5b34) by [Amine Aboud](https://twitter.com/amineaboud)
 - **[Jan 28 - $ 4,000]** [Launching Internal & Non-Exported Deeplinks](https://ash-king.co.uk/blog/Launching-internal-non-exported-deeplinks-on-Facebook)  by [Ashley King](https://twitter.com/AshleyKingUK)
