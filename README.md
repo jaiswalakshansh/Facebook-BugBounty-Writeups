@@ -18,6 +18,18 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
+
+- **[Feb 17 - $ 4,800]** [Enumerate internal cached URLs which lead to data exposure](https://ysamm.com/?p=629)  by [Samm0uda](https://twitter.com/samm0uda)
+- **[Feb 17 - $ 2,000]** [Leaking Facebook user information to external websites / Setting some cookies values](https://ysamm.com/?p=627)  by [Samm0uda](https://twitter.com/samm0uda)
+- **[Feb 17 - $ 500]** [Open redirect in Instagram.com](https://ysamm.com/?p=625)  by [Samm0uda](https://twitter.com/samm0uda)
+- **[Feb 17 - $ 1,500]** [Access private information about SparkAR effect owners who has a publicly viewable portfolio](https://ysamm.com/?p=621)  by [Samm0uda](https://twitter.com/samm0uda)
+- **[Feb 17 - $ 3,000]** [Make recruiting referrals on behalf of employees](https://ysamm.com/?p=620)  by [Samm0uda](https://twitter.com/samm0uda)
+- **[Feb 15 - $ 500]** [Leak of internal categorySets names and employees test accounts.](https://ysamm.com/?p=613)  by [Samm0uda](https://twitter.com/samm0uda)
+- **[Feb 15 - $ 1,000]** [Delete linked payments accounts of a Facebook page (or user)](https://ysamm.com/?p=609)  by [Samm0uda](https://twitter.com/samm0uda)
+- **[Feb 15 - $ 12,500]** [Access files uploaded by employees to internal CDNs / Regenerate URL signature of user uploaded content.
+](https://ysamm.com/?p=606)  by [Samm0uda](https://twitter.com/samm0uda)
+- **[Feb 15 - $ 500]** [URLs in img tag aren’t passed through safe_image.php which lead to exposure of Facebook users IPs.](https://ysamm.com/?p=603)  by [Samm0uda](https://twitter.com/samm0uda)
+- **[Feb 15 - $ 500]** [View orders and financial reports lists for any page shop](https://ysamm.com/?p=597)  by [Samm0uda](https://twitter.com/samm0uda)
 - **[Feb 10 - $ ???]**  [Sending ephemeral message to any Facebook user](https://servicenger.com/blog/mobile/sending-ephemeral-message-to-any-facebook-user/)  by [Rahul Kankrale](https://twitter.com/RahulKankrale)
 - **[Feb 03 - $ 2,000]** [Facebook Messenger Desktop App Arbitrary File Read](https://medium.com/@renwa/facebook-messenger-desktop-app-arbitrary-file-read-db2374550f6d) by [Renwa](https://twitter.com/RenwaX23) 
 - **[Feb 02 - $ ???]** [Access developer tasks list of any Facebook Application](https://amineaboud.medium.com/access-developer-tasks-list-of-any-of-facebook-application-graphql-idor-62307c5e5b34) by [Amine Aboud](https://twitter.com/amineaboud)
