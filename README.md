@@ -18,9 +18,10 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
-
+- **[Feb 17 - $ 500]** [Dangling DNS Records on api.techprep.fb.com](https://gist.github.com/TheBinitGhimire/ec24a9de97a372cf6b7b9453511c3f8b) by [Binit Ghimire
+](https://twitter.com/WHOISbinit)
 - **[Feb 17 - $ 4,800]** [Enumerate internal cached URLs which lead to data exposure](https://ysamm.com/?p=629)  by [Samm0uda](https://twitter.com/samm0uda)
-- **[Feb 17 - $ 2,000]** [Leaking Facebook user information to external websites / Setting some cookies values](https://ysamm.com/?p=627)  by [Samm0uda](https://twitter.com/samm0uda)
+- **[Feb 17 - $ 2,000]** [Leaking Facebook user information to external websites](https://ysamm.com/?p=627)  by [Samm0uda](https://twitter.com/samm0uda)
 - **[Feb 17 - $ 500]** [Open redirect in Instagram.com](https://ysamm.com/?p=625)  by [Samm0uda](https://twitter.com/samm0uda)
 - **[Feb 17 - $ 1,500]** [Access private information about SparkAR effect owners who has a publicly viewable portfolio](https://ysamm.com/?p=621)  by [Samm0uda](https://twitter.com/samm0uda)
 - **[Feb 17 - $ 3,000]** [Make recruiting referrals on behalf of employees](https://ysamm.com/?p=620)  by [Samm0uda](https://twitter.com/samm0uda)
