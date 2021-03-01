@@ -18,6 +18,14 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
+- **[Feb 27 - $ ???]** [Disclose hidden Product Images by featuring a non-owned collection](https://bugreader.com/bassembazzoun_@disclose-hidden-product-images-by-featuring-a-non-owned-collection-on-home-page-of-the-shop-245) by [Bassem Bazzoun](https://bugreader.com/bassembazzoun_)
+- **[Feb 18 - $ ???]** [Open redirect in www.oversightboard.com](https://bugreader.com/jubabaghdad@open-redirect-in-wwwoversightboardcom-that-owned-by-facebook-244) by [Sarmad Hassan](https://bugreader.com/jubabaghdad)
+- **[Feb 18 - $ 500]** [Expose Facebook object type](https://ysamm.com/?p=642)  by [Samm0uda](https://twitter.com/samm0uda)
+- **[Feb 18 - $ 3,600]** [Expose information about Partner accounts ](https://ysamm.com/?p=640)  by [Samm0uda](https://twitter.com/samm0uda)
+- **[Feb 18 - $ 500]** [Ability to find Facebook employee’s test accounts](https://ysamm.com/?p=638)  by [Samm0uda](https://twitter.com/samm0uda)
+- **[Feb 18 - $ 500]** [Disclose internal CMS objects content](https://ysamm.com/?p=636)  by [Samm0uda](https://twitter.com/samm0uda)
+- **[Feb 18 - $ 500]** [Determine admin email addresses of Partners portal account](https://ysamm.com/?p=634)  by [Samm0uda](https://twitter.com/samm0uda)
+- **[Feb 18 - $ 500]** [XSS in Facebook CDN](https://ysamm.com/?p=632)  by [Samm0uda](https://twitter.com/samm0uda)
 - **[Feb 17 - $ 500]** [Dangling DNS Records on api.techprep.fb.com](https://gist.github.com/TheBinitGhimire/ec24a9de97a372cf6b7b9453511c3f8b) by [Binit Ghimire
 ](https://twitter.com/WHOISbinit)
 - **[Feb 17 - $ 4,800]** [Enumerate internal cached URLs which lead to data exposure](https://ysamm.com/?p=629)  by [Samm0uda](https://twitter.com/samm0uda)
@@ -34,6 +42,7 @@ The template to follow when adding new writeups:
 - **[Feb 10 - $ ???]**  [Sending ephemeral message to any Facebook user](https://servicenger.com/blog/mobile/sending-ephemeral-message-to-any-facebook-user/)  by [Rahul Kankrale](https://twitter.com/RahulKankrale)
 - **[Feb 03 - $ 2,000]** [Facebook Messenger Desktop App Arbitrary File Read](https://medium.com/@renwa/facebook-messenger-desktop-app-arbitrary-file-read-db2374550f6d) by [Renwa](https://twitter.com/RenwaX23) 
 - **[Feb 02 - $ ???]** [Access developer tasks list of any Facebook Application](https://amineaboud.medium.com/access-developer-tasks-list-of-any-of-facebook-application-graphql-idor-62307c5e5b34) by [Amine Aboud](https://twitter.com/amineaboud)
+- **[Feb 02 - $ ???]** [Create a block list in brand safety on behalf of any other user](https://bugreader.com/jubabaghdad@create-a-block-list-in-brand-safety-on-behalf-of-any-other-user-241) by [Sarmad Hassan](https://bugreader.com/jubabaghdad)
 - **[Jan 28 - $ 4,000]** [Launching Internal & Non-Exported Deeplinks](https://ash-king.co.uk/blog/Launching-internal-non-exported-deeplinks-on-Facebook)  by [Ashley King](https://twitter.com/AshleyKingUK)
 - **[Jan 14 - $ 1,000]** [Irremovable Facebook group album photos](https://theshubh77.medium.com/irremovable-facebook-group-album-photos-and-entire-album-under-certain-circumstances-bounty-1000-b1b2a870b8e0)  by [Shubham Bhamare](https://twitter.com/theshubh77)
 - **[Jan 08 - $ 30,000]** [Create post on any Facebook page](https://www.darabi.me/2020/12/create-invisible-post-on-any-facebook.html)  by [Pouya Darabi](https://twitter.com/Pouyadarabi)
@@ -41,6 +50,8 @@ The template to follow when adding new writeups:
 - **[Jan 04 - $ 5,000]** [Bypass of a FaceBook Page Admin Disclosure](https://savebreach.com/facebook-page-admin-identity-disclosure-through-document-edit-history/)  by [Shubham Bhamare](https://twitter.com/theshubh77)
 - **[Jan 03 - $ 5,000]** [Expose the email address of Workplace users](https://ysamm.com/?p=588)  by [Samm0uda](https://twitter.com/samm0uda)
 - **[Jan 01 - $ 30,000]** [XSS on forums.oculusvr.com](https://ysamm.com/?p=525)  by [Samm0uda](https://twitter.com/samm0uda)
+- **[Jan 01 - $ 500]** [Clearing tournament match score as participant](https://bugreader.com/rony@clearing-tournament-match-score-as-participant-237) by [Rony K Roy](https://bugreader.com/rony)
+
 
 ### 2020:- 
 - **[Dec 31 - $ 10,000]** [Account takeovers in third party websites](https://ysamm.com/?p=510) by [Samm0uda](https://twitter.com/samm0uda)
