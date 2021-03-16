@@ -18,6 +18,10 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
+- **[Mar 16- $ 9,000]** [Facebook Group Members Disclosure](https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e) by [Baibhav Anand Jha](https://twitter.com/spongebhav)
+- **[Mar 04 - $ 500]** [Low hanging fruits on Facebook Group Room](https://randyarios.medium.com/low-hanging-fruits-on-facebook-group-room-b8d17c7ea886) by [Randy Arios](https://randyarios.medium.com/)
+- **[Mar 03 - $ 500]** [THE INVINCIBLE KID](https://infosecwriteups.com/the-invincible-kid-7ac1ce2887c0) by [Samip Aryal](https://samiparyal.medium.com/)
+- **[Feb 28 - $ ???]** [Join Facebook Group With Unpublish Page](https://gevakun.medium.com/join-facebook-group-with-unpublish-page-cb649a20fb0e) by [Gevakun](https://twitter.com/Geva_7)
 - **[Feb 27 - $ ???]** [Disclose hidden Product Images by featuring a non-owned collection](https://bugreader.com/bassembazzoun_@disclose-hidden-product-images-by-featuring-a-non-owned-collection-on-home-page-of-the-shop-245) by [Bassem Bazzoun](https://bugreader.com/bassembazzoun_)
 - **[Feb 18 - $ ???]** [Open redirect in www.oversightboard.com](https://bugreader.com/jubabaghdad@open-redirect-in-wwwoversightboardcom-that-owned-by-facebook-244) by [Sarmad Hassan](https://bugreader.com/jubabaghdad)
 - **[Feb 18 - $ 500]** [Expose Facebook object type](https://ysamm.com/?p=642)  by [Samm0uda](https://twitter.com/samm0uda)
