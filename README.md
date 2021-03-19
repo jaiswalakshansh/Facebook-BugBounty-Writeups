@@ -18,9 +18,9 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
-- **[Mar 19- $ 54,800]** [How I hacked Facebook: Part Two](https://alaa0x2.medium.com/how-i-hacked-facebook-part-two-ffab96d57b19) by [Alaa Abdulridha](https://twitter.com/alaa0x2)
-- **[Mar 16- $ 1,000]** [VOICE CONFUSION WHEN COMMENTING ON WATCH PARTY](https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/5.html) by [Prakash Panta](https://twitter.com/prakashpanta268)
-- **[Mar 16- $ 9,000]** [Facebook Group Members Disclosure](https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e) by [Baibhav Anand Jha](https://twitter.com/spongebhav)
+- **[Mar 19 - $ 54,800]** [How I hacked Facebook: Part Two](https://alaa0x2.medium.com/how-i-hacked-facebook-part-two-ffab96d57b19) by [Alaa Abdulridha](https://twitter.com/alaa0x2)
+- **[Mar 16 - $ 1,000]** [VOICE CONFUSION WHEN COMMENTING ON WATCH PARTY](https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/5.html) by [Prakash Panta](https://twitter.com/prakashpanta268)
+- **[Mar 16 - $ 9,000]** [Facebook Group Members Disclosure](https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e) by [Baibhav Anand Jha](https://twitter.com/spongebhav)
 - **[Mar 04 - $ 500]** [Low hanging fruits on Facebook Group Room](https://randyarios.medium.com/low-hanging-fruits-on-facebook-group-room-b8d17c7ea886) by [Randy Arios](https://randyarios.medium.com/)
 - **[Mar 03 - $ 500]** [THE INVINCIBLE KID](https://infosecwriteups.com/the-invincible-kid-7ac1ce2887c0) by [Samip Aryal](https://samiparyal.medium.com/)
 - **[Feb 28 - $ ???]** [Join Facebook Group With Unpublish Page](https://gevakun.medium.com/join-facebook-group-with-unpublish-page-cb649a20fb0e) by [Gevakun](https://twitter.com/Geva_7)
