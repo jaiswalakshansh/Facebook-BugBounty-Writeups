@@ -18,6 +18,8 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
+- **[Mar 19- $ 54,800]** [How I hacked Facebook: Part Two](https://alaa0x2.medium.com/how-i-hacked-facebook-part-two-ffab96d57b19) by [Alaa Abdulridha](https://twitter.com/alaa0x2)
+- **[Mar 16- $ 1,000]** [VOICE CONFUSION WHEN COMMENTING ON WATCH PARTY](https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/5.html) by [Prakash Panta](https://twitter.com/prakashpanta268)
 - **[Mar 16- $ 9,000]** [Facebook Group Members Disclosure](https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e) by [Baibhav Anand Jha](https://twitter.com/spongebhav)
 - **[Mar 04 - $ 500]** [Low hanging fruits on Facebook Group Room](https://randyarios.medium.com/low-hanging-fruits-on-facebook-group-room-b8d17c7ea886) by [Randy Arios](https://randyarios.medium.com/)
 - **[Mar 03 - $ 500]** [THE INVINCIBLE KID](https://infosecwriteups.com/the-invincible-kid-7ac1ce2887c0) by [Samip Aryal](https://samiparyal.medium.com/)
@@ -64,7 +66,7 @@ The template to follow when adding new writeups:
 - **[Dec 20 - $ 13,125]** [How I was able to view anyone’s private email and birthday](https://saugatpokharel.medium.com/this-is-how-i-was-able-to-view-anyones-private-email-and-birthday-on-instagram-1469f44b842b) by [Saugat Pokharel](https://twitter.com/saugatpk5)
 - **[Dec 19 - $ 1,000]** [Finding the hidden members of the private events](https://medium.com/bugbountywriteup/facebook-bug-bounty-finding-the-hidden-members-of-the-private-events-977dc1784ff9) by [Vivek PS](https://vivekps143.medium.com/)
 - **[Dec 12 - $ 5,000]** [Confirm an email address belonging to a specific user](https://medium.com/@yaala/confirm-an-email-address-belonging-to-a-specific-user-fe9c305e0af) by [Abdellah Yaala](https://medium.com/@yaala)
-- **[Dec 11 - $ 7,500]** [How I hacked Facebook: Part One](https://alaa.blog/2020/12/how-i-hacked-facebook-part-one/) by [Alaa Abdulridha](https://www.facebook.com/alaa.abdulridha.716)
+- **[Dec 11 - $ 7,500]** [How I hacked Facebook: Part One](https://alaa.blog/2020/12/how-i-hacked-facebook-part-one/) by [Alaa Abdulridha](https://twitter.com/alaa0x2)
 - **[Nov 13 - $ 10,000]** [Facebook SSRF](https://medium.com/@amineaboud/10000-facebook-ssrf-bug-bounty-402bd21e58e5) by [Amine Aboud](https://twitter.com/amineaboud)
 - **[Nov 13 - $ 500]** [Replying Comments On Someone’s LiveStream From Page is Posted as Personal Identity](https://medium.com/@prakashpanta1999/replying-comments-on-someones-livestream-from-page-is-posted-as-personal-identity-5fe79ef78b28) by [Prakash Panta](https://twitter.com/Prakashpanta268)
 - **[Nov 13 - $ 16,125]** [How I Found The Facebook Messenger Leaking Access Token Of Million Users](https://medium.com/@guhanraja/how-i-found-the-facebook-messenger-leaking-access-token-of-million-users-8ee4b3f1e5e3) by [Guhan Raja](https://twitter.com/havocgwen)
