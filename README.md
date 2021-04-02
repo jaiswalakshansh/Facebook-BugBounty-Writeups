@@ -18,6 +18,8 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
+- **[Apr 01 - $ 30,000]** [Facebook account takeover due to a wide platform bug in ajaxpipe responses](https://ysamm.com/?p=654)  by [Samm0uda](https://twitter.com/samm0uda)
+- **[Apr 01 - $ 12,000]** [Facebook account takeover due to a bypass of allowed callback URLs in the OAuth flow](https://ysamm.com/?p=646)  by [Samm0uda](https://twitter.com/samm0uda)
 - **[Mar 19 - $ 54,800]** [How I hacked Facebook: Part Two](https://alaa0x2.medium.com/how-i-hacked-facebook-part-two-ffab96d57b19) by [Alaa Abdulridha](https://twitter.com/alaa0x2)
 - **[Mar 16 - $ 1,000]** [VOICE CONFUSION WHEN COMMENTING ON WATCH PARTY](https://www.pantaprakash.com.np/posts/categories/bugbounty-writeup/5.html) by [Prakash Panta](https://twitter.com/prakashpanta268)
 - **[Mar 16 - $ 9,000]** [Facebook Group Members Disclosure](https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e) by [Baibhav Anand Jha](https://twitter.com/spongebhav)
