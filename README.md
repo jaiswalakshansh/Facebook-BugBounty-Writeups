@@ -18,6 +18,7 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
+- **[Apr 26 - $ 6,000]** [Download Facebook internal mobile builds](https://philippeharewood.com/download-facebook-internal-mobile-builds/) by [Philippe Harewood](https://twitter.com/phwd)
 - **[Apr 18 - $ 14,000]** [Remove any Facebook’s live video](https://infosecwriteups.com/poc-remove-any-facebooks-live-video-14-000-bounty-70c8135b7b4c)  by [Ahmad Talahmeh](https://edmundaa222.medium.com/)
 - **[Apr 17 - $ 1,000]** [Comment Goes From Page Profile Instead of Personal Profile](https://whoisaasis.medium.com/how-i-got-my-first-bounty-from-finding-a-bug-in-facebook-4f4198dc61b8)  by [Aashish Kunwar](https://twitter.com/WhoisAasis)
 - **[Apr 01 - $ 30,000]** [Facebook account takeover due to a wide platform bug in ajaxpipe responses](https://ysamm.com/?p=654)  by [Samm0uda](https://twitter.com/samm0uda)
