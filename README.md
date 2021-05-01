@@ -143,7 +143,7 @@ The template to follow when adding new writeups:
 - **[Jan 23 - $ 12,500]** [Cross-Site Websocket Hijacking bug in Facebook that leads to account takeover](https://ysamm.com/?p=363) by [Samm0uda](https://twitter.com/samm0uda)
 - **[Jan 22 - $ 500]** [Facebook Vulnerability: Hidden “Community Manager” in Pages due to “Invitation Accept” logic](https://medium.com/@ritishkumarsingh/facebook-vulnerability-hidden-community-manager-in-pages-due-to-invitation-accept-logic-61ddbe229c97) by [Ritish Kumar Singh](https://medium.com/@ritishkumarsingh)
 
-## 2019:
+### 2019:
 - **[Dec 29 - $ ???]** [Information Disclosure Bug](https://medium.com/bug-bounty-hunting/facebook-bug-bounty-story-x000-for-an-information-disclosure-bug-f0c0d19d7815) by [Circle Ninja](https://twitter.com/circleninja)
 - **[Dec 26 - $ ???]** [Bypassing Brand Collabs Manager Eligibility on Facebook](https://medium.com/nassec-cybersecurity-writeups/this-is-how-i-got-xxxx-from-facebook-for-instagram-bug-aaff50342246) by [Ajay Gautam](https://twitter.com/evilboyajay)
 - **[Dec 13 - $ ???]** [Facebook New Account Verification Bypass](https://medium.com/@santoshbrl5/facebook-new-account-verification-bypass-c589017f2faf) by [Santosh Baral](https://twitter.com/santoshbrl5)
@@ -244,7 +244,7 @@ The template to follow when adding new writeups:
 - **[Jan 04 - $ 1,000]** [Stealing Side-Channel Attack Tokens in Facebook Account Switcher](https://medium.com/@maxpasqua/stealing-side-channel-attack-tokens-in-facebook-account-switcher-90c5944e3b58) by [Max Pasqua](https://medium.com/@maxpasqua)
 
 
-## 2018:
+### 2018:
 - **[Oct 09 - $ ???]** [Facebook-Business-Takeover](https://philippeharewood.com/facebook-business-takeover/) by [Philippe Harewood](https://twitter.com/phwd)
 - **[Aug 22 - $ ???]** [Send-Payment-Invoices-As-Any-Facebook-Page](https://philippeharewood.com/send-payment-invoices-as-any-facebook-page/) by [Philippe Harewood](https://twitter.com/phwd)
 - **[Aug 09 - $ 5,000]** [Remote Code Execution on a Facebook server](https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/) by [Sec team](https://blog.scrt.ch/)
@@ -274,7 +274,7 @@ The template to follow when adding new writeups:
 - **[Jan 10 - $ ???]** [Unintended-Control-Over-The-Email-Body-In-Partner-Integration-Email-Instructions/](https://philippeharewood.com/unintended-control-over-the-email-body-in-partner-integration-email-instructions/) by [Philippe Harewood](https://twitter.com/phwd)
 - **[Jan 05 - $ ???]** [Disclose-Page-Admins-Via-Our-Story-Feature](https://philippeharewood.com/disclose-page-admins-via-our-story-feature/) by [Philippe Harewood](https://twitter.com/phwd)
 
-## 2017:
+### 2017:
 - **[Dec 26 - $ ???]** [Facebook-Ad-Spend-Details-Leaking-For-Facebook-Marketing](https://philippeharewood.com/facebook-ad-spend-details-leaking-for-facebook-marketing-partners/) by [Philippe Harewood](https://twitter.com/phwd)
 - **[Dec 21 - $ ???]** [Searching-Internal-Gatekeeper-Constants](https://philippeharewood.com/searching-internal-gatekeeper-constants/) by [Philippe Harewood](https://twitter.com/phwd)
 - **[Oct 24 - $ ???]** [Make-Recruiting-Referrals-On-Behalf-Of-Facebook](https://philippeharewood.com/make-recruiting-referrals-on-behalf-of-facebook/) by [Philippe Harewood](https://twitter.com/phwd)
