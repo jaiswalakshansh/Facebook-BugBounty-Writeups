@@ -18,7 +18,8 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
-- **[May 07 - $27,000]** [Unauthorized access to companies environment](https://mvinni.medium.com/workplace-by-facebook-unauthorized-access-to-companies-environment-27-5k-a593a57092f1) by [Marcos Ferreira](https://twitter.com/mvinni_?s=09)
+- **[May 06 - $9,000]** [Identify a Facebook user by his phone number](https://ysamm.com/?p=691) by [Samm0uda](https://twitter.com/samm0uda)
+- **[May 06 - $27,000]** [Unauthorized access to companies environment](https://mvinni.medium.com/workplace-by-facebook-unauthorized-access-to-companies-environment-27-5k-a593a57092f1) by [Marcos Ferreira](https://twitter.com/mvinni_?s=09)
 - **[May 04 - $18,000]** [Account takeover of  accounts due to unrestricted permissions](https://ysamm.com/?p=684) by [Samm0uda](https://twitter.com/samm0uda)
 - **[May 04 - $3,000]** [Disclose other user followers](https://medium.com/@pratiktimilsina2001/here-ive-tried-my-best-to-explain-my-bug-bounty-journey-e2fe6c7ff89a) by [Pratik Timilsina](https://medium.com/@pratiktimilsina2001)
 - **[May 01 - $500]** [Hijack Facebook user due to broken link on Facebook shop feature on IOS Facebook APP](https://medium.com/@sndpgiriz/facebook-bug-bounty-hijack-facebook-user-due-to-broken-link-on-facebook-shop-feature-on-ios-1b008685b548) by [SndpGiri](https://www.facebook.com/graphql/)
