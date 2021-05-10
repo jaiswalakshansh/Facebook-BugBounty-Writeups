@@ -18,6 +18,7 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
+- **[May 10 - $500]** [Undeletable Messenger Room](https://sndpgiriz.medium.com/simple-logical-bug-turned-into-a-bounty-a3d7ac214606) by [SndpGiri](https://www.facebook.com/graphql/)
 - **[May 1 - $500]** [Hijack Facebook user due to broken link on Facebook shop feature on IOS Facebook APP](https://medium.com/@sndpgiriz/facebook-bug-bounty-hijack-facebook-user-due-to-broken-link-on-facebook-shop-feature-on-ios-1b008685b548) by [SndpGiri](https://www.facebook.com/graphql/)
 - **[Apr 30 - $ 30,000]** [Facebook account takeover due to unsafe redirects](https://ysamm.com/?p=667) by [Samm0uda](https://twitter.com/samm0uda)
 - **[Apr 26 - $ 6,000]** [Download Facebook internal mobile builds](https://philippeharewood.com/download-facebook-internal-mobile-builds/) by [Philippe Harewood](https://twitter.com/phwd)
