@@ -18,6 +18,7 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
+- **[May 10 - $500]** [Undeletable Messenger Room](https://sndpgiriz.medium.com/simple-logical-bug-turned-into-a-bounty-a3d7ac214606) by [SndpGiri](https://www.facebook.com/graphql/)
 - **[May 06 - $9,000]** [Identify a Facebook user by his phone number](https://ysamm.com/?p=691) by [Samm0uda](https://twitter.com/samm0uda)
 - **[May 06 - $27,000]** [Unauthorized access to companies environment](https://mvinni.medium.com/workplace-by-facebook-unauthorized-access-to-companies-environment-27-5k-a593a57092f1) by [Marcos Ferreira](https://twitter.com/mvinni_?s=09)
 - **[May 04 - $18,000]** [Account takeover of  accounts due to unrestricted permissions](https://ysamm.com/?p=684) by [Samm0uda](https://twitter.com/samm0uda)
