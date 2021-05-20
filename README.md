@@ -18,6 +18,7 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
+- **[May 20 - $12,000]** [Oculus SSO bug leads to account takeover on third party websites](https://ysamm.com/?p=697) by [Samm0uda](https://twitter.com/samm0uda)
 - **[May 11 - $9,600]** [Instagram Reflected XSS](https://ysamm.com/?p=695) by [Samm0uda](https://twitter.com/samm0uda)
 - **[May 10 - $500]** [Undeletable Messenger Room](https://sndpgiriz.medium.com/simple-logical-bug-turned-into-a-bounty-a3d7ac214606) by [SndpGiri](https://www.facebook.com/graphql/)
 - **[May 06 - $9,000]** [Identify a Facebook user by his phone number](https://ysamm.com/?p=691) by [Samm0uda](https://twitter.com/samm0uda)
