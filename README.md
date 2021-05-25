@@ -18,6 +18,12 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
+- **[May 23 - $???]** [Disclose leads form details of any Facebook Business Account](https://amineaboud.medium.com/disclose-leads-form-details-of-any-facebook-business-account-or-facebook-page-bug-bounty-7ecae6cff312) by [Amine Aboud](https://twitter.com/amineaboud)
+- **[May 22 - $500]** [Crossposting Live Videos](https://yaswanthmangalagiri.blogspot.com/2021/05/facebook-bug-bounty-crossposting-live.html) by [Yaswanth Mangalagiri](https://yaswanthmangalagiri.blogspot.com/)
+- **[May 21 - $500]** [CSRF from which we can create a support ticket in Victim’s Account](https://rohitcoder.medium.com/csrf-from-which-we-can-create-a-support-ticket-in-victims-account-500-c1aa61f99c17) by [Rohit kumar](https://twitter.com/rohitcoder)
+- **[May 21 - $500]** [Victim’s Anti CSRF Token could be exposed to Third-party Applications ](https://rohitcoder.medium.com/victims-anti-csrf-token-could-be-exposed-to-third-party-applications-installed-on-user-s-device-be8e40d511ba) by [Rohit kumar](https://twitter.com/rohitcoder)
+- **[May 20 - $ 1000]** [Third-Party Apps were still getting your private Facebook data](https://infosecwriteups.com/third-party-apps-were-still-getting-your-private-facebook-data-even-after-their-access-expiry-6e4be4880e6e) by [Samip Aryal](https://samiparyal.medium.com/)
+- **[May 20 - $ 537]** [Instagram Live setting bug](https://infosecwriteups.com/writeups-facebook-whitehat-program-2021-instagram-live-setting-bug-500-usd-d2d076b3f8bb) by [Takashi Suzuki](https://www.linkedin.com/in/takashi-suzuki-whitehacker/)
 - **[May 20 - $12,000]** [Oculus SSO bug leads to account takeover on third party websites](https://ysamm.com/?p=697) by [Samm0uda](https://twitter.com/samm0uda)
 - **[May 11 - $9,600]** [Instagram Reflected XSS](https://ysamm.com/?p=695) by [Samm0uda](https://twitter.com/samm0uda)
 - **[May 10 - $500]** [Undeletable Messenger Room](https://sndpgiriz.medium.com/simple-logical-bug-turned-into-a-bounty-a3d7ac214606) by [SndpGiri](https://www.facebook.com/graphql/)
