@@ -18,6 +18,9 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
+- **[Jun 15 - $30,000]** [I was able to see Private, Archived Posts/Stories of users on Instagram](https://fartademayur.medium.com/this-is-how-i-was-able-to-see-private-archived-posts-stories-of-users-on-instagram-without-de70ca39165c) by [Mayur Fartade](https://twitter.com/mayurfartade)
+- **[Jun 06 - $3000]** [How I could have accessed all your private videos/photos saved inside your device](https://infosecwriteups.com/how-i-could-have-accessed-all-your-private-videos-photos-saved-inside-your-device-without-even-1a7e455ddcc8) by [Samip Aryal](https://samiparyal.medium.com/)
+- **[May 31 - $???]** [Facebook Page Admin Disclosure](https://infosecwriteups.com/facebook-page-admin-disclosure-7d8893a4a674) by [Kunjan Nayak](https://kunjan-nayak.medium.com/)
 - **[May 23 - $???]** [Disclose leads form details of any Facebook Business Account](https://amineaboud.medium.com/disclose-leads-form-details-of-any-facebook-business-account-or-facebook-page-bug-bounty-7ecae6cff312) by [Amine Aboud](https://twitter.com/amineaboud)
 - **[May 22 - $500]** [Crossposting Live Videos](https://yaswanthmangalagiri.blogspot.com/2021/05/facebook-bug-bounty-crossposting-live.html) by [Yaswanth Mangalagiri](https://yaswanthmangalagiri.blogspot.com/)
 - **[May 21 - $500]** [CSRF from which we can create a support ticket in Victim’s Account](https://rohitcoder.medium.com/csrf-from-which-we-can-create-a-support-ticket-in-victims-account-500-c1aa61f99c17) by [Rohit kumar](https://twitter.com/rohitcoder)
