@@ -18,7 +18,7 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
-- **[July 10- $???]** [Facebook Email/phone disclosure using Binary search](https://rikeshbaniyaaa.medium.com/facebook-email-phone-disclosure-using-binary-search-d50430758c54) by [Rikesh Baniya](https://rikeshbaniyaaa.medium.com/)
+- **[July 10 - $???]** [Facebook Email/phone disclosure using Binary search](https://rikeshbaniyaaa.medium.com/facebook-email-phone-disclosure-using-binary-search-d50430758c54) by [Rikesh Baniya](https://rikeshbaniyaaa.medium.com/)
 - **[June 27 - $500]** [Oversightboard.com site-wide CSRF ](https://ysamm.com/?p=702) by [Samm0uda](https://twitter.com/samm0uda)
 - **[June 27 - $500]** [Disclose unconfirmed email/phone of a Facebook user](https://ysamm.com/?p=700) by [Samm0uda](https://twitter.com/samm0uda)
 - **[June 15 - $30,000]** [I was able to see Private, Archived Posts/Stories of users on Instagram](https://fartademayur.medium.com/this-is-how-i-was-able-to-see-private-archived-posts-stories-of-users-on-instagram-without-de70ca39165c) by [Mayur Fartade](https://twitter.com/mayurfartade)
