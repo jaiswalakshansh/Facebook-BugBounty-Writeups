@@ -18,11 +18,12 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
-- **[Jun 27 - $500]** [Oversightboard.com site-wide CSRF ](https://ysamm.com/?p=702) by [Samm0uda](https://twitter.com/samm0uda)
-- **[Jun 27 - $500]** [Disclose unconfirmed email/phone of a Facebook user](https://ysamm.com/?p=700) by [Samm0uda](https://twitter.com/samm0uda)
-- **[Jun 15 - $30,000]** [I was able to see Private, Archived Posts/Stories of users on Instagram](https://fartademayur.medium.com/this-is-how-i-was-able-to-see-private-archived-posts-stories-of-users-on-instagram-without-de70ca39165c) by [Mayur Fartade](https://twitter.com/mayurfartade)
-- **[Jun 13 - $15,500]** [User’s location diclosure in the Nearby Friends](https://otmastimi.medium.com/users-location-diclosure-in-the-nearby-friends-feature-fabd24be05cb) by [Yavor Rusev](https://otmastimi.medium.com/)
-- **[Jun 06 - $3000]** [How I could have accessed all your private videos/photos saved inside your device](https://infosecwriteups.com/how-i-could-have-accessed-all-your-private-videos-photos-saved-inside-your-device-without-even-1a7e455ddcc8) by [Samip Aryal](https://samiparyal.medium.com/)
+- **[July 10- $???]** [Facebook Email/phone disclosure using Binary search](https://rikeshbaniyaaa.medium.com/facebook-email-phone-disclosure-using-binary-search-d50430758c54) by [Rikesh Baniya](https://rikeshbaniyaaa.medium.com/)
+- **[June 27 - $500]** [Oversightboard.com site-wide CSRF ](https://ysamm.com/?p=702) by [Samm0uda](https://twitter.com/samm0uda)
+- **[June 27 - $500]** [Disclose unconfirmed email/phone of a Facebook user](https://ysamm.com/?p=700) by [Samm0uda](https://twitter.com/samm0uda)
+- **[June 15 - $30,000]** [I was able to see Private, Archived Posts/Stories of users on Instagram](https://fartademayur.medium.com/this-is-how-i-was-able-to-see-private-archived-posts-stories-of-users-on-instagram-without-de70ca39165c) by [Mayur Fartade](https://twitter.com/mayurfartade)
+- **[June 13 - $15,500]** [User’s location diclosure in the Nearby Friends](https://otmastimi.medium.com/users-location-diclosure-in-the-nearby-friends-feature-fabd24be05cb) by [Yavor Rusev](https://otmastimi.medium.com/)
+- **[June 06 - $3000]** [How I could have accessed all your private videos/photos saved inside your device](https://infosecwriteups.com/how-i-could-have-accessed-all-your-private-videos-photos-saved-inside-your-device-without-even-1a7e455ddcc8) by [Samip Aryal](https://samiparyal.medium.com/)
 - **[May 31 - $???]** [Facebook Page Admin Disclosure](https://infosecwriteups.com/facebook-page-admin-disclosure-7d8893a4a674) by [Kunjan Nayak](https://kunjan-nayak.medium.com/)
 - **[May 23 - $???]** [Disclose leads form details of any Facebook Business Account](https://amineaboud.medium.com/disclose-leads-form-details-of-any-facebook-business-account-or-facebook-page-bug-bounty-7ecae6cff312) by [Amine Aboud](https://twitter.com/amineaboud)
 - **[May 22 - $500]** [Crossposting Live Videos](https://yaswanthmangalagiri.blogspot.com/2021/05/facebook-bug-bounty-crossposting-live.html) by [Yaswanth Mangalagiri](https://yaswanthmangalagiri.blogspot.com/)
