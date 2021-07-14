@@ -18,6 +18,7 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
+- **[July 12 - $500]** [Linkshim Bypass](https://bugreader.com/ant00961@linkshim-bypass-259) by [Anthony Richa](https://www.facebook.com/whitehat/profile/AnT00961/)
 - **[July 10 - $???]** [Facebook Email/phone disclosure using Binary search](https://rikeshbaniyaaa.medium.com/facebook-email-phone-disclosure-using-binary-search-d50430758c54) by [Rikesh Baniya](https://rikeshbaniyaaa.medium.com/)
 - **[June 27 - $500]** [Oversightboard.com site-wide CSRF ](https://ysamm.com/?p=702) by [Samm0uda](https://twitter.com/samm0uda)
 - **[June 27 - $500]** [Disclose unconfirmed email/phone of a Facebook user](https://ysamm.com/?p=700) by [Samm0uda](https://twitter.com/samm0uda)
