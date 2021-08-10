@@ -18,6 +18,10 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
+- **[July 29 - $3,000]** [Expose Group Member](https://medium.com/@muhammadsholikhin/facebook-vulnerability-expose-group-member-3000-cca809a53f6b) by [Muhammad S
+](https://medium.com/@muhammadsholikhin)
+- **[July 24 - $1,000]** [Not valid bug that leads to us a multiple Valid Report](https://medium.com/@Kntjrld/not-valid-bug-that-leads-to-us-a-multiple-valid-report-in-facebook-25a3fb8cb51) by [Kntjrld](https://medium.com/@Kntjrld)
+- **[July 23 - $500]** [Admin of group chat cannot remove deactivate user](https://imajk.medium.com/story-of-my-3rd-bounty-from-facebook-fef352853d1b) by [Aashish Jung Kunwar ](https://imajk.medium.com/)
 - **[July 17 - $1,500]** [Removing Document Cover](https://medium.com/@muhammadsholikhin/facebook-vulnerability-1500-for-removing-document-cover-9ffd0173877b) by [Muhammad S
 ](https://medium.com/@muhammadsholikhin)
 - **[July 12 - $500]** [Linkshim Bypass](https://bugreader.com/ant00961@linkshim-bypass-259) by [Anthony Richa](https://www.facebook.com/whitehat/profile/AnT00961/)
