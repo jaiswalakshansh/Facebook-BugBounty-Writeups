@@ -18,6 +18,10 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
+- **[Aug 22 - $???]** [IDOR enables Allow Facebook stories shared from Instagram](https://medium.com/@mohamedajimi59/idor-enable-allow-facebook-stories-shared-from-instagram-to-tag-my-page-as-non-admin-c5bdf597684a) by [Mohamed Laajimi](https://medium.com/@mohamedajimi59)
+- **[Aug 18 - $3,449]** [Confirming any new Email Address ](https://lokeshdlk77.medium.com/confirming-any-new-email-address-bug-in-facebook-part-4-70cfe1b4dca5) by [Lokesh Kumar](https://lokeshdlk77.medium.com/)
+- **[Aug 02- $???]** [Facebook Messenger indirect thread deletion](https://servicenger.com/blog/mobile/android/facebook-messenger-for-android-indirect-thread-deletion/?fbclid=IwAR1R9T91bR2aBpsiT5O0gBzz5fVOqwZHecDsbsTVXm7hNINJO7IJNaYvcZU) by [Rahul Kankrale](https://twitter.com/RahulKankrale)
+- **[July 30 - $???]** [Request Review on behalf of other pages (no role in the page) in Account Quality](https://bugreader.com/jubabaghdad@request-review-on-behalf-of-other-pages-no-role-in-the-page-in-account-quality-261) by [Sarmad Hassan](https://bugreader.com/jubabaghdad)
 - **[July 29 - $3,000]** [Expose Group Member](https://medium.com/@muhammadsholikhin/facebook-vulnerability-expose-group-member-3000-cca809a53f6b) by [Muhammad S
 ](https://medium.com/@muhammadsholikhin)
 - **[July 24 - $1,000]** [Not valid bug that leads to us a multiple Valid Report](https://medium.com/@Kntjrld/not-valid-bug-that-leads-to-us-a-multiple-valid-report-in-facebook-25a3fb8cb51) by [Kntjrld](https://medium.com/@Kntjrld)
