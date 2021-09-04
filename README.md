@@ -18,6 +18,8 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
+- **[Sep 03 - $126,000]** [Tale of Account Takeovers](https://ysamm.com/?p=708) by [Samm0uda](https://twitter.com/samm0uda)
+- **[Sep 01 - $1,000]** [Bypassing 2-Factor Authentication for Facebook Business Manager](https://theshubh77.medium.com/bypassing-2-factor-authentication-for-facebook-business-manager-bounty-1000-usd-c78c858459d6) by [Shubham Bhamare](https://theshubh77.medium.com/)
 - **[Aug 22 - $???]** [IDOR enables Allow Facebook stories shared from Instagram](https://medium.com/@mohamedajimi59/idor-enable-allow-facebook-stories-shared-from-instagram-to-tag-my-page-as-non-admin-c5bdf597684a) by [Mohamed Laajimi](https://medium.com/@mohamedajimi59)
 - **[Aug 18 - $3,449]** [Confirming any new Email Address ](https://lokeshdlk77.medium.com/confirming-any-new-email-address-bug-in-facebook-part-4-70cfe1b4dca5) by [Lokesh Kumar](https://lokeshdlk77.medium.com/)
 - **[Aug 02- $???]** [Facebook Messenger indirect thread deletion](https://servicenger.com/blog/mobile/android/facebook-messenger-for-android-indirect-thread-deletion/?fbclid=IwAR1R9T91bR2aBpsiT5O0gBzz5fVOqwZHecDsbsTVXm7hNINJO7IJNaYvcZU) by [Rahul Kankrale](https://twitter.com/RahulKankrale)
