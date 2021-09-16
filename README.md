@@ -18,6 +18,7 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
+- **[Sep 15 - $18,250]** [A Facebook bug that exposes email/phone number to your friends](https://iamsaugat.medium.com/a-facebook-bug-that-exposes-email-phone-number-to-your-friends-a980d24e5ea8) by [Saugat Pokharel](https://twitter.com/saugatpk5)
 - **[Sep 08 - $???]** [Facebook email disclosure and account takeover](https://rikeshbaniyaaa.medium.com/facebook-email-disclosure-and-account-takeover-ecdb44ee12e9) by [Rikesh Baniya](https://rikeshbaniyaaa.medium.com/)
 - **[Sep 03 - $126,000]** [Tale of Account Takeovers](https://ysamm.com/?p=708) by [Samm0uda](https://twitter.com/samm0uda)
 - **[Sep 01 - $1,000]** [Bypassing 2-Factor Authentication for Facebook Business Manager](https://theshubh77.medium.com/bypassing-2-factor-authentication-for-facebook-business-manager-bounty-1000-usd-c78c858459d6) by [Shubham Bhamare](https://theshubh77.medium.com/)
