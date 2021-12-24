@@ -18,6 +18,12 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
+- **[Nov 23 - $25,000]**  [CSRF in Instagram](https://medium.com/@mohamedajimi59/csrf-in-instagram-461cbba286a) by [Mohamed Laajimi](https://medium.com/@mohamedajimi59)
+- **[Oct 24 - $???]** [Tagged User Could Delete Facebook Story](https://mrkrhy-xyz.medium.com/tagged-user-could-delete-facebook-story-d7f9cdde92aa) by [Mark Rhoy](https://mrkrhy-xyz.medium.com/)
+- **[Oct 22 - $???]** [Unauthorized access to any Facebook user’s draft profile picture frames](https://www.appsecure.security/blog/unauthorized-access-to-facebook-draft-profile-picture-frames) by [Sandeep Hodkasia](https://mobile.twitter.com/sandeephodkasia)
+- **[Sep 29 - $10,000]** [Malicious Android Applications can takeover Facebook/Workplace accounts](https://ysamm.com/?p=729) by [Samm0uda](https://twitter.com/samm0uda)
+- **[Sep 29 - $500]** [Force Browsing bug at Facebook business plan](https://dewcode.medium.com/force-browsing-bug-at-facebook-business-plan-500-bounty-73d1bb4883af) by [Dewanand Vishal](https://dewcode.medium.com/)
+- **[Sep 23 - $725]** [Messenger for MacOS contained hardcoded FB token](https://www.vulnano.com/2021/09/facebook-messenger-for-macos-contained.html?fbclid=IwAR2iT6KOZYRE6xaAjDRtDWqmyyZSmLK_UBXz3_L7x9OtqbQ04bkLJB_jIQE) by [Dzmitry](https://www.vulnano.com/)
 - **[Sep 15 - $18,250]** [A Facebook bug that exposes email/phone number to your friends](https://iamsaugat.medium.com/a-facebook-bug-that-exposes-email-phone-number-to-your-friends-a980d24e5ea8) by [Saugat Pokharel](https://twitter.com/saugatpk5)
 - **[Sep 08 - $???]** [Facebook email disclosure and account takeover](https://rikeshbaniyaaa.medium.com/facebook-email-disclosure-and-account-takeover-ecdb44ee12e9) by [Rikesh Baniya](https://rikeshbaniyaaa.medium.com/)
 - **[Sep 03 - $126,000]** [Tale of Account Takeovers](https://ysamm.com/?p=708) by [Samm0uda](https://twitter.com/samm0uda)
