@@ -18,6 +18,8 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
+
+- **[Dec 02 - $1,500]** [Disclose Ad Accounts linked with Instagram Accounts](https://yesnaveen.com/Instagram-ad-account-disclosure) by [Naveen](https://twitter.com/NaveenHax)
 - **[Nov 23 - $25,000]**  [CSRF in Instagram](https://medium.com/@mohamedajimi59/csrf-in-instagram-461cbba286a) by [Mohamed Laajimi](https://medium.com/@mohamedajimi59)
 - **[Oct 24 - $???]** [Tagged User Could Delete Facebook Story](https://mrkrhy-xyz.medium.com/tagged-user-could-delete-facebook-story-d7f9cdde92aa) by [Mark Rhoy](https://mrkrhy-xyz.medium.com/)
 - **[Oct 22 - $???]** [Unauthorized access to any Facebook user’s draft profile picture frames](https://www.appsecure.security/blog/unauthorized-access-to-facebook-draft-profile-picture-frames) by [Sandeep Hodkasia](https://mobile.twitter.com/sandeephodkasia)
