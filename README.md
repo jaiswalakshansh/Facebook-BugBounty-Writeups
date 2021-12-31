@@ -18,7 +18,10 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2021:-
-
+- **[Dec 29 - $863]** [Add or remove the linked publications from Author Publisher settings](https://servicenger.com/mobile/idor-add-or-remove-the-linked-publications-from-author-publisher-settings-facebook-bug-bounty) by [Rahul Kankrale](https://twitter.com/RahulKankrale)
+- **[Dec 20 - $4,500]** [How I was able to reveal page admin of almost any page on Facebook](https://medium.com/pentesternepal/how-i-was-able-to-reveal-page-admin-of-almost-any-page-on-facebook-5a8d68253e0c) by [Sudip Shah](https://medium.com/@sudipshah_66336)
+- **[Dec 16 - $???]**[ CSRF renew access to Apps](http://www.hackingmonks.net/2021/12/facebook-bug-poc-csrf-renew-access-to.html) by [Hacking Monks](http://www.hackingmonks.net/)
+- **[Dec 04 - $???]** [Able to See and Delete Private Facebook Portal photos](https://pathleax.medium.com/this-is-how-i-was-able-to-see-and-delete-your-private-facebook-portal-photos-a93ed22f875b) by [Abhishek Pathak](https://pathleax.medium.com/)
 - **[Dec 02 - $1,500]** [Disclose Ad Accounts linked with Instagram Accounts](https://yesnaveen.com/Instagram-ad-account-disclosure) by [Naveen](https://twitter.com/NaveenHax)
 - **[Nov 23 - $25,000]**  [CSRF in Instagram](https://medium.com/@mohamedajimi59/csrf-in-instagram-461cbba286a) by [Mohamed Laajimi](https://medium.com/@mohamedajimi59)
 - **[Oct 24 - $???]** [Tagged User Could Delete Facebook Story](https://mrkrhy-xyz.medium.com/tagged-user-could-delete-facebook-story-d7f9cdde92aa) by [Mark Rhoy](https://mrkrhy-xyz.medium.com/)
