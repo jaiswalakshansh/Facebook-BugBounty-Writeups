@@ -17,6 +17,10 @@ The template to follow when adding new writeups:
 
 ## Writeups
 
+### 2022:
+- **[Jan 05 - $1050]** [How I was able to spoof any Instagram username on Instagram shop](https://medium.com/@nvmeeet/how-i-was-able-to-spoof-any-instagram-username-on-instagram-shop-b4d6abdb474a) by [Nawaf Alkhaldi](https://medium.com/@nvmeeet)
+- **[Jan 04 - $1075]** [Execute arbitrary javascript (xss) and load arbitrary website](https://servicenger.com/mobile/facebook-android-webview-vulnerability/) by [Rahul Kankrale](https://twitter.com/RahulKankrale)
+
 ### 2021:-
 - **[Dec 29 - $863]** [Add or remove the linked publications from Author Publisher settings](https://servicenger.com/mobile/idor-add-or-remove-the-linked-publications-from-author-publisher-settings-facebook-bug-bounty) by [Rahul Kankrale](https://twitter.com/RahulKankrale)
 - **[Dec 20 - $4,500]** [How I was able to reveal page admin of almost any page on Facebook](https://medium.com/pentesternepal/how-i-was-able-to-reveal-page-admin-of-almost-any-page-on-facebook-5a8d68253e0c) by [Sudip Shah](https://medium.com/@sudipshah_66336)
