@@ -18,6 +18,8 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2022:
+- **[Feb 05 - $7500]** [Attacker could attach their own tournamnet to any live video.](https://bugreader.com/rony@attacker-could-attach-their-own-tournamnet-to-any-live-video-272) by [Rony K Roy](https://fb.com/ronykroy3)
+- **[Feb 02- $4000]** [Abusing Facebooks Call To Action To Launch Internal Deeplinks](https://www.ash-king.co.uk/blog/abusing-Facebooks-call-to-action-to-launch-internal-deeplinks?fbclid=IwAR0AVhnCXKwoQmy2vGQWBMyztXevZyVCv0OXxnSWiiDigWZU0Zb3u7yzZCU) by [Ash-King](https://www.ash-king.co.uk/)
 - **[Jan 05 - $1050]** [How I was able to spoof any Instagram username on Instagram shop](https://medium.com/@nvmeeet/how-i-was-able-to-spoof-any-instagram-username-on-instagram-shop-b4d6abdb474a) by [Nawaf Alkhaldi](https://medium.com/@nvmeeet)
 - **[Jan 04 - $1075]** [Execute arbitrary javascript (xss) and load arbitrary website](https://servicenger.com/mobile/facebook-android-webview-vulnerability/) by [Rahul Kankrale](https://twitter.com/RahulKankrale)
 
