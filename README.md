@@ -18,7 +18,7 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2022:
-- **[Feb 21 - $3150]** [How I could’ve bypassed the 2FA security of Instagram once again?](https://infosecwriteups.com/how-i-couldve-bypassed-the-2fa-security-of-instagram-once-again-43c05cc9b755) by [Samip Aryal](https://twitter.com/samiparyal_)
+- **[Feb 21 - $3150]** [How I could’ve bypassed the 2FA security of Instagram once again](https://infosecwriteups.com/how-i-couldve-bypassed-the-2fa-security-of-instagram-once-again-43c05cc9b755) by [Samip Aryal](https://twitter.com/samiparyal_)
 - **[Feb 16 - $7500]** [Trim private live videos and access them](https://medium.com/@yaala/trim-private-live-videos-and-access-them-a331447cc82a) by [Abdellah Yaala](https://medium.com/@yaala)
 - **[Feb 06 - $7500]** [Facebook Oauth token leakage](https://medium.com/@yaala/facebook-oauth-bypass-446a073e687d) by [Abdellah Yaala](https://medium.com/@yaala)
 - **[Feb 05 - $7500]** [Attacker could attach their own tournamnet to any live video.](https://bugreader.com/rony@attacker-could-attach-their-own-tournamnet-to-any-live-video-272) by [Rony K Roy](https://fb.com/ronykroy3)
