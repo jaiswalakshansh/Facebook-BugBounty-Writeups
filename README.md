@@ -16,8 +16,10 @@ The template to follow when adding new writeups:
 
 
 ## Writeups
-
-### 2022:
+- **[March 06 - $???]** [Bypassing biometric authentication using voip in Whatsapp](https://infosecwriteups.com/whatsapp-bug-bounty-bypassing-biometric-authentication-using-voip-87548ef7a0ba) by [Arvind](https://twitter.com/ar_arv1nd)
+- **[March 04 - $98,250]** [More secure Facebook Canvas Part 2](https://ysamm.com/?p=742) by [Samm0uda](https://twitter.com/samm0uda)
+- **[March 03- $4500]** [Instagram IDOR Bug](https://medium.com/@nvmeeet/4300-instagram-idor-bug-2022-5386cf492cad) by [Nawaf Alkhaldi](https://twitter.com/nvmeeet)
+- **[Feb 25 - $1500]** [Bypassing default visibility for newly-added email](https://medium.com/@Kntjrld/bypassing-default-visibility-for-newly-added-email-in-facebook-part-i-submitting-i-d-da78142f032d) & [Part 2](https://medium.com/@Kntjrld/bypassing-default-visibility-for-newly-added-email-in-facebook-part-ii-trusted-contacts-36176eeb103) by [Kent Jarold Abulag](https://twitter.com/wkemenhehehegsg)
 - **[Feb 21 - $3150]** [How I could’ve bypassed the 2FA security of Instagram once again](https://infosecwriteups.com/how-i-couldve-bypassed-the-2fa-security-of-instagram-once-again-43c05cc9b755) by [Samip Aryal](https://twitter.com/samiparyal_)
 - **[Feb 16 - $7500]** [Trim private live videos and access them](https://medium.com/@yaala/trim-private-live-videos-and-access-them-a331447cc82a) by [Abdellah Yaala](https://medium.com/@yaala)
 - **[Feb 06 - $7500]** [Facebook Oauth token leakage](https://medium.com/@yaala/facebook-oauth-bypass-446a073e687d) by [Abdellah Yaala](https://medium.com/@yaala)
