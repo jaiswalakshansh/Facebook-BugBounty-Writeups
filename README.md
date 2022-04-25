@@ -16,6 +16,9 @@ The template to follow when adding new writeups:
 
 
 ## Writeups
+- **[Apr 10 - $400]** [Privacy Disclosure on Facebook Lite](https://medium.com/@RheyJuls/privacy-disclosure-on-facebook-lite-after-creating-a-post-b12a1cad8d8a) by [Rhey](https://medium.com/@RheyJuls)
+- **[Apr 07 - $2,500]** [Meta's SparkAR RCE Via ZIP Path Traversal](https://blog.fadyothman.com/metas-sparkar/) by [Fady Othman](https://blog.fadyothman.com/author/fady-2/)
+- **[Apr 04 - $???]** [View Friends List of any users using](https://ph-hitachi.medium.com/view-friends-list-of-any-users-using-view-as-facebook-bug-bounty-edeb6af5640b) by [Ph.Hitachi](https://ph-hitachi.medium.com/)
 - **[March 06 - $???]** [Bypassing biometric authentication using voip in Whatsapp](https://infosecwriteups.com/whatsapp-bug-bounty-bypassing-biometric-authentication-using-voip-87548ef7a0ba) by [Arvind](https://twitter.com/ar_arv1nd)
 - **[March 04 - $98,250]** [More secure Facebook Canvas Part 2](https://ysamm.com/?p=742) by [Samm0uda](https://twitter.com/samm0uda)
 - **[March 03- $4500]** [Instagram IDOR Bug](https://medium.com/@nvmeeet/4300-instagram-idor-bug-2022-5386cf492cad) by [Nawaf Alkhaldi](https://twitter.com/nvmeeet)
