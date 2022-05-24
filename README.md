@@ -16,7 +16,7 @@ The template to follow when adding new writeups:
 
 
 ## Writeups
-- **[May 14 - $44,625]** [Multiple bugs chained to takeover Facebook Accounts which uses Gmail](https://ysamm.com/?p=763) by [Youssef Sammouda](https://twitter.com/samm0uda)
+- **[May 14 - $44,625]** [Multiple bugs chained to takeover Facebook Accounts](https://ysamm.com/?p=763) by [Sammouda](https://twitter.com/samm0uda)
 - **[May 04 - $1,575]** [Remotely permanent crash any Instagram user via permanent DoS in user DM’s](https://www.yesnaveen.com/remotely-permanent-crash-any-instagram) by [Naveen](https://twitter.com/NaveenHax)
 - **[Apr 30 - $1,000]** [Page Admin Disclosure when Posting a Reel](https://zerocode-ph.medium.com/page-admin-disclosure-when-posting-a-reel-1bfac9bd7f71) by [Syd Ricafort](https://twitter.com/devsyd11)
 - **[Apr 28 - $12,000]** [Contact Point Deanonymization Vulnerability](https://lokeshdlk77.medium.com/contact-point-deanonymization-vulnerability-in-meta-90d575c4d8ef) by [Lokesh Kumar](https://lokeshdlk77.medium.com/)
