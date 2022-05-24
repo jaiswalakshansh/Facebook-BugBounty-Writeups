@@ -16,6 +16,10 @@ The template to follow when adding new writeups:
 
 
 ## Writeups
+- **[May 14 - $44,625]** [Multiple bugs chained to takeover Facebook Accounts which uses Gmail](https://ysamm.com/?p=763) by [Youssef Sammouda](https://twitter.com/samm0uda)
+- **[May 04 - $1,575]** [Remotely permanent crash any Instagram user via permanent DoS in user DM’s](https://www.yesnaveen.com/remotely-permanent-crash-any-instagram) by [Naveen](https://twitter.com/NaveenHax)
+- **[Apr 30 - $1,000]** [Page Admin Disclosure when Posting a Reel](https://zerocode-ph.medium.com/page-admin-disclosure-when-posting-a-reel-1bfac9bd7f71) by [Syd Ricafort](https://twitter.com/devsyd11)
+- **[Apr 28 - $12,000]** [Contact Point Deanonymization Vulnerability](https://lokeshdlk77.medium.com/contact-point-deanonymization-vulnerability-in-meta-90d575c4d8ef) by [Lokesh Kumar](https://lokeshdlk77.medium.com/)
 - **[Apr 10 - $4400]** [Privacy Disclosure on Facebook Lite](https://medium.com/@RheyJuls/privacy-disclosure-on-facebook-lite-after-creating-a-post-b12a1cad8d8a) by [Rhey](https://medium.com/@RheyJuls)
 - **[Apr 07 - $2,500]** [Meta's SparkAR RCE Via ZIP Path Traversal](https://blog.fadyothman.com/metas-sparkar/) by [Fady Othman](https://blog.fadyothman.com/author/fady-2/)
 - **[Apr 04 - $???]** [View Friends List of any users using](https://ph-hitachi.medium.com/view-friends-list-of-any-users-using-view-as-facebook-bug-bounty-edeb6af5640b) by [Ph.Hitachi](https://ph-hitachi.medium.com/)
