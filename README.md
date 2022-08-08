@@ -16,6 +16,12 @@ The template to follow when adding new writeups:
 
 
 ## Writeups
+- **[July 24 - $???]** [Contactpoint Inference through rate-limiting errors](http://www.hackingmonks.net/2022/07/facebook-bug-poc-contactpoint-inference.html) by [Hacking Monks](http://www.hackingmonks.net/)
+- **[July 19 - $250]** [How I could’ve bought anything for Free from Facebook Business Pages](https://infosecwriteups.com/hacking-facebook-invoice-how-i-couldve-bought-anything-for-free-from-facebook-business-pages-42bcfaa73ec4) by [Samip Aryal](https://samiparyal.medium.com/)
+- **[July 19 - $12,000]** [Instagram account takeover by malicious apps](https://www.vulnano.com/2022/07/react-debugkeystore-key-was-trusted-by.html) by [Dzmitry](https://twitter.com/xdzmitry)
+- **[Jun 30 - $500]** [Facebook Portal’s business logic error](https://medium.com/@unurbayar1998/facebook-portals-business-logic-error-lead-to-500-708e91b4055f) by [Unurbayar](https://medium.com/@unurbayar1998)
+- **[Jun 12 - $49,500]** [How I found a Critical Bug in Instagram](https://infosecwriteups.com/how-i-found-a-critical-bug-in-instagram-and-got-49500-bounty-from-facebook-626ff2c6a853) by [Neeraj Sharma](https://medium.com/@root.n33r4j)
+- **[May 31 - $???]** [Abusing Facebook’s feature for a permanent account confusion](https://medium.com/@terminatorLM/abusing-facebooks-feature-for-a-permanent-account-confusion-logic-vulnerability-d7f5160f373a) by [terminator](https://twitter.com/terminatorLM)
 - **[May 14 - $44,625]** [Multiple bugs chained to takeover Facebook Accounts](https://ysamm.com/?p=763) by [Sammouda](https://twitter.com/samm0uda)
 - **[May 04 - $1,575]** [Remotely permanent crash any Instagram user via permanent DoS in user DM’s](https://www.yesnaveen.com/remotely-permanent-crash-any-instagram) by [Naveen](https://twitter.com/NaveenHax)
 - **[Apr 30 - $1,000]** [Page Admin Disclosure when Posting a Reel](https://zerocode-ph.medium.com/page-admin-disclosure-when-posting-a-reel-1bfac9bd7f71) by [Syd Ricafort](https://twitter.com/devsyd11)
