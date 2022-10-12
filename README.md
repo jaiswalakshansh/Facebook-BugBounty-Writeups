@@ -16,6 +16,14 @@ The template to follow when adding new writeups:
 
 
 ## Writeups
+
+### 2022:
+- **[Sep 06 - $10,000]** [Abusing Self Hosted Github Runners at Facebook](https://marcyoung.us/post/zuckerpunch/) by [Marcus Young](https://github.com/myoung34)
+- **[Sep 06 - $???]** [Details about future collaboration profiles and pages have been revealed](https://hopesamples.blogspot.com/2022/09/details-about-future-collaboration.html) by [DF](https://hopesamples.blogspot.com/)
+- **[Sep 06 - $???]** [Group expert's pending expertise request leaking on Facebook](https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html) by [DF](https://hopesamples.blogspot.com/)
+- **[Aug 11 - $3000]** [Email Confirmation bypass at Instagram](https://medium.com/@avinash_/email-confirmation-bypass-at-instagram-cc968f9a126) by [Avinash Kumar](https://medium.com/@avinash_)
+- **[Aug 05 - $???]** [Irremovable guest in facebook event](https://infosecwriteups.com/irremovable-guest-in-facebook-event-facebook-bug-bounty-e10e03c98cd5) by [Rajiv Gyawali](https://medium.com/@rajeevgyawali92)
+- **[Aug 02 - $550]** [Instagram photo was present in data backup](https://medium.com/@the_null_kid/instagram-photo-was-present-in-data-backup-nearly-after-two-years-being-deleted-f0e4d6e108) by [Jeewan Bhatta](https://medium.com/@the_null_kid)
 - **[July 24 - $???]** [Contactpoint Inference through rate-limiting errors](http://www.hackingmonks.net/2022/07/facebook-bug-poc-contactpoint-inference.html) by [Hacking Monks](http://www.hackingmonks.net/)
 - **[July 19 - $250]** [How I could’ve bought anything for Free from Facebook Business Pages](https://infosecwriteups.com/hacking-facebook-invoice-how-i-couldve-bought-anything-for-free-from-facebook-business-pages-42bcfaa73ec4) by [Samip Aryal](https://samiparyal.medium.com/)
 - **[July 19 - $12,000]** [Instagram account takeover by malicious apps](https://www.vulnano.com/2022/07/react-debugkeystore-key-was-trusted-by.html) by [Dzmitry](https://twitter.com/xdzmitry)
