@@ -18,6 +18,8 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2022:
+- **[Oct 17 - $18750]** [Facebook SMS Captcha Was Vulnerable to CSRF Attack](https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980) by [Lokesh kumar](https://twitter.com/lokeshdlk77)
+- **[Sep 06 - $???]** [Group expert's pending expertise request leaking](https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html) by [DF](https://www.blogger.com/profile/09415214335815845109)
 - **[Sep 06 - $10,000]** [Abusing Self Hosted Github Runners at Facebook](https://marcyoung.us/post/zuckerpunch/) by [Marcus Young](https://github.com/myoung34)
 - **[Sep 06 - $???]** [Details about future collaboration profiles and pages have been revealed](https://hopesamples.blogspot.com/2022/09/details-about-future-collaboration.html) by [DF](https://hopesamples.blogspot.com/)
 - **[Sep 06 - $???]** [Group expert's pending expertise request leaking on Facebook](https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html) by [DF](https://hopesamples.blogspot.com/)
