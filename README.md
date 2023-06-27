@@ -37,7 +37,7 @@ The template to follow when adding new writeups:
 - **[Dec 23 - $3,000]** [0 click Facebook Account Takeover and Two-Factor Authentication Bypass](https://medium.com/@yaala/account-takeover-and-two-factor-authentication-bypass-de56ed41d7f9) by [abdellah yaala](https://twitter.com/yaalaab)
 - **[Dec 23 - $11,250]** [Delete any Video or Reel on Facebook (11,250$)](https://bugreader.com/social/write-ups-general-delete-any-video-or-reel-on-facebook-11-250--100965) by [Bassem Bazzoun](https://twitter.com/bassemmbazzoun)
 - **[Dec 5 - $500]** [Irremovable comments on the FB Lite app](https://theshubh77.medium.com/write-up-irremovable-comments-on-fb-lite-app-a-story-of-a-simple-fb-lite-bug-that-i-found-just-125aaa826dd8) by [Shubham Bhamare](https://twitter.com/theshubh77)
-- **[Nov 22, 2022 - $3,000]** [Header spoofing via a hidden parameter in Facebook Batch GraphQL APIs](https://feed.bugs.xdavidhu.me/bugs/0017) by [David Schütz](https://twitter.com/xdavidhu)
+- **[Nov 22 - $3,000]** [Header spoofing via a hidden parameter in Facebook Batch GraphQL APIs](https://feed.bugs.xdavidhu.me/bugs/0017) by [David Schütz](https://twitter.com/xdavidhu)
 - **[Oct 17 - $18,750]** [Facebook SMS Captcha Was Vulnerable to CSRF Attack](https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980) by [Lokesh kumar](https://twitter.com/lokeshdlk77)
 - **[Sep 06 - $???]** [Group expert's pending expertise request leaking](https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html) by [DF](https://www.blogger.com/profile/09415214335815845109)
 - **[Sep 06 - $10,000]** [Abusing Self Hosted Github Runners at Facebook](https://marcyoung.us/post/zuckerpunch/) by [Marcus Young](https://github.com/myoung34)
