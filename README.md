@@ -17,8 +17,28 @@ The template to follow when adding new writeups:
 
 ## Writeups
 
+### 2023:-
+
+- **[May 4 - $12,500]** [CVE-2019-18426 - WhatsApp potential for RCE](https://weizman.github.io/2020/02/14/whatsapp-vuln/) by [Gal Weizman](https://twitter.com/WeizmanGal)
+- **[Apr 27 - $500]** [Bypassing Link Sharing Protection](https://zerocode-ph.medium.com/bypassing-link-sharing-protection-in-messenger-kids-parents-control-feature-meta-bug-bounty-e53f2d148bd9) by [Syd Ricafort](https://twitter.com/devsyd11)
+- **[Mar 18 - ???]** [Facebook Creator Studio Misconfiguration](https://medium.com/@abdulparkar9554/facebook-creator-studio-misconfiguration-348b0ee38c31) by [Abdul Rehman Parkar](https://medium.com/@abdulparkar9554)
+- **[Mar 8 - 2023]** [Accessing to Data Sources of any Facebook Business account via IDOR in GraphQL](https://medium.com/@mukundbhuva/accessing-the-data-sources-of-any-facebook-business-account-via-idor-in-graphql-1fc963ad3ecd) by [Mukund Bhuva](https://twitter.com/MukundBhuva)
+- **[Feb 26 - ???]** [Facebook bug: A Journey from Code Execution to S3 Data Leak](https://medium.com/@win3zz/facebook-bug-a-journey-from-code-execution-to-s3-data-leak-698b7d2b02ef) by [Bipin Jitiya](https://twitter.com/win3zz)
+- **[Jan 31 - $62,500]** [DOM-XSS in Instant Games due to improper verification of supplied URLs](https://ysamm.com/?p=779) by [Youssef Sammouda](https://twitter.com/samm0uda)
+- **[Jan 31 - $62,500]** [Account Takeover in Canvas Apps served in Comet due to failure in Cross-Window-Message Origin validation](https://ysamm.com/?p=783) by [Youssef Sammouda](https://twitter.com/samm0uda)
+- **[Jan 31 - $44,250]** [Account takeover of Facebook/Oculus accounts due to First-Party access_token stealing](https://ysamm.com/?p=777) by [Youssef Sammouda](https://twitter.com/samm0uda)
+- **[Jan 31 - $2,075]** [Disclosing Facebook page admins by playing a game](https://medium.com/@sudipshah_66336/disclosing-facebook-page-admins-by-playing-a-game-2b0f4ed082e4) by [Sudip Shah](https://medium.com/@sudipshah_66336)
+- **[Jan 23 - ???]** [Two Factor Authentication Bypass On Facebook](https://medium.com/pentesternepal/two-factor-authentication-bypass-on-facebook-3f4ac3ea139c) by [Gtm Mänôz](https://twitter.com/Gtm0x01)
+- **[Jan 11 - $1,726]** [Meta Quest: Attacker could make any Oculus user to follow (subscribe) him without any approval](https://www.vulnano.com/2023/01/meta-quest-attacker-could-make-any.html) by [Dzmitry Lukyanenka](https://twitter.com/vulnano)
+- **[Jan 6 - ???]** [Instagram vulnerability : Turn off all type of message requests using deeplink (Android)](https://servicenger.com/mobile/instagram-vulnerability-turn-off-message-requests-deeplink/) by [Rahul Kankrale](https://twitter.com/RahulKankrale)
+
 ### 2022:
-- **[Oct 17 - $18750]** [Facebook SMS Captcha Was Vulnerable to CSRF Attack](https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980) by [Lokesh kumar](https://twitter.com/lokeshdlk77)
+
+- **[Dec 23 - $3,000]** [0 click Facebook Account Takeover and Two-Factor Authentication Bypass](https://medium.com/@yaala/account-takeover-and-two-factor-authentication-bypass-de56ed41d7f9) by [abdellah yaala](https://twitter.com/yaalaab)
+- **[Dec 23 - $11,250]** [Delete any Video or Reel on Facebook (11,250$)](https://bugreader.com/social/write-ups-general-delete-any-video-or-reel-on-facebook-11-250--100965) by [Bassem Bazzoun](https://twitter.com/bassemmbazzoun)
+- **[Dec 5 - $500]** [Irremovable comments on the FB Lite app](https://theshubh77.medium.com/write-up-irremovable-comments-on-fb-lite-app-a-story-of-a-simple-fb-lite-bug-that-i-found-just-125aaa826dd8) by [Shubham Bhamare](https://twitter.com/theshubh77)
+- **[Nov 22, 2022 - $3,000]** [Header spoofing via a hidden parameter in Facebook Batch GraphQL APIs](https://feed.bugs.xdavidhu.me/bugs/0017) by [David Schütz](https://twitter.com/xdavidhu)
+- **[Oct 17 - $18,750]** [Facebook SMS Captcha Was Vulnerable to CSRF Attack](https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980) by [Lokesh kumar](https://twitter.com/lokeshdlk77)
 - **[Sep 06 - $???]** [Group expert's pending expertise request leaking](https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html) by [DF](https://www.blogger.com/profile/09415214335815845109)
 - **[Sep 06 - $10,000]** [Abusing Self Hosted Github Runners at Facebook](https://marcyoung.us/post/zuckerpunch/) by [Marcus Young](https://github.com/myoung34)
 - **[Sep 06 - $???]** [Details about future collaboration profiles and pages have been revealed](https://hopesamples.blogspot.com/2022/09/details-about-future-collaboration.html) by [DF](https://hopesamples.blogspot.com/)
