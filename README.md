@@ -18,7 +18,7 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2023:-
-
+- **[Aug 22 - $25,300]** [Bypass Two-Factor Authentication of Facebook Accounts](https://medium.com/@bazzounbassem/bypass-two-factor-authentication-of-facebook-accounts-25-300-7ae152d7836a) by [Bassem M Bazzoun](https://twitter.com/bassemmbazzoun)
 - **[May 4 - $12,500]** [CVE-2019-18426 - WhatsApp potential for RCE](https://weizman.github.io/2020/02/14/whatsapp-vuln/) by [Gal Weizman](https://twitter.com/WeizmanGal)
 - **[Apr 27 - $500]** [Bypassing Link Sharing Protection](https://zerocode-ph.medium.com/bypassing-link-sharing-protection-in-messenger-kids-parents-control-feature-meta-bug-bounty-e53f2d148bd9) by [Syd Ricafort](https://twitter.com/devsyd11)
 - **[Mar 18 - ???]** [Facebook Creator Studio Misconfiguration](https://medium.com/@abdulparkar9554/facebook-creator-studio-misconfiguration-348b0ee38c31) by [Abdul Rehman Parkar](https://medium.com/@abdulparkar9554)
