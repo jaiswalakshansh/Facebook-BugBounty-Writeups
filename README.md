@@ -18,6 +18,9 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2023:-
+
+- **[Sep 19 - $???]** [Anonymous post owner disclosure](https://bugreader.com/rony@283) by [Rony K Roy](https://fb.com/ronykroy3)
+- **[Aug 31 - $10,000]** [How I could view any Facebook Groups Notes media](https://infosecwriteups.com/how-i-could-view-any-facebook-groups-notes-media-and-they-paid-me-a-10-000-fe22f8949d7c) by [Raja Sudhakar](https://medium.com/@rajasudhakar)
 - **[Aug 22 - $25,300]** [Bypass Two-Factor Authentication of Facebook Accounts](https://medium.com/@bazzounbassem/bypass-two-factor-authentication-of-facebook-accounts-25-300-7ae152d7836a) by [Bassem M Bazzoun](https://twitter.com/bassemmbazzoun)
 - **[May 4 - $12,500]** [CVE-2019-18426 - WhatsApp potential for RCE](https://weizman.github.io/2020/02/14/whatsapp-vuln/) by [Gal Weizman](https://twitter.com/WeizmanGal)
 - **[Apr 27 - $500]** [Bypassing Link Sharing Protection](https://zerocode-ph.medium.com/bypassing-link-sharing-protection-in-messenger-kids-parents-control-feature-meta-bug-bounty-e53f2d148bd9) by [Syd Ricafort](https://twitter.com/devsyd11)
