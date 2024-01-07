@@ -18,7 +18,7 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2023:-
-
+- - **[Oct 12 - $14,500]** [How I Exposed Instagram's Private Posts by Blocking Users](https://003random.com/posts/meta-bountycon-instagram-writeup/) by [003random](https://fb.com/rub003)
 - **[Sep 19 - $???]** [Anonymous post owner disclosure](https://bugreader.com/rony@283) by [Rony K Roy](https://fb.com/ronykroy3)
 - **[Aug 31 - $10,000]** [How I could view any Facebook Groups Notes media](https://infosecwriteups.com/how-i-could-view-any-facebook-groups-notes-media-and-they-paid-me-a-10-000-fe22f8949d7c) by [Raja Sudhakar](https://medium.com/@rajasudhakar)
 - **[Aug 22 - $25,300]** [Bypass Two-Factor Authentication of Facebook Accounts](https://medium.com/@bazzounbassem/bypass-two-factor-authentication-of-facebook-accounts-25-300-7ae152d7836a) by [Bassem M Bazzoun](https://twitter.com/bassemmbazzoun)
