@@ -17,6 +17,9 @@ The template to follow when adding new writeups:
 
 ## Writeups
 
+### 2024:- 
+- **[Feb 04 - $???]** [XSS in Excalidraw used in Meta Messenger](https://spaceraccoon.dev/clipboard-microsoft-whiteboard-excalidraw-meta/?fbclid=IwAR0nckrTov2NWGB64Js9nLbac5CT2tdCYn-RV0E0B7dIlHL0pAglV035f1E) by [Eugene Lim](https://x.com/spaceraccoonsec)
+
 ### 2023:-
 - **[Oct 12 - $14,500]** [How I Exposed Instagram's Private Posts by Blocking Users](https://003random.com/posts/meta-bountycon-instagram-writeup/) by [003random](https://fb.com/rub003)
 - **[Sep 19 - $???]** [Anonymous post owner disclosure](https://bugreader.com/rony@283) by [Rony K Roy](https://fb.com/ronykroy3)
