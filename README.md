@@ -18,6 +18,7 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2024:- 
+- **[12 April - $1000]** [READ LOCKED WHATSAPP CHATS ON ANDROID AND IOS](https://medium.com/@xpl0itmE/read-locked-whatsapp-chats-on-android-and-ios-da1b39dd3ce2) by [Himanshu Bharti](https://twitter.com/xpl0itmE)
 - **[Feb 27 - $???]** [0-Click Account Takeover on Facebook](https://samiparyal.medium.com/0-click-account-takeover-on-facebook-e4120651e23e) by [Samip Aryal](https://twitter.com/samiparyal)
 - **[Feb 04 - $???]** [XSS in Excalidraw used in Meta Messenger](https://spaceraccoon.dev/clipboard-microsoft-whiteboard-excalidraw-meta/?fbclid=IwAR0nckrTov2NWGB64Js9nLbac5CT2tdCYn-RV0E0B7dIlHL0pAglV035f1E) by [Eugene Lim](https://x.com/spaceraccoonsec)
 
