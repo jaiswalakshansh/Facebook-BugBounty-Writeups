@@ -18,7 +18,17 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2024:- 
+
+- **[July 30 - $???]** [Stealing First Party Access Token of Facebook Users: Meta Bug Bounty](https://medium.com/@iamsaugat/stealing-first-party-access-token-of-facebook-users-meta-bug-bounty-44b3b2e87d07) by [Saugat Pokharel](https://twitter.com/saugatscript)
+
+- **[July 11 - $???]** [Disclose the email address and phone number of Chinese business reseller](https://gtm0x01.medium.com/disclose-the-email-address-and-phone-number-of-chinese-business-reseller-f882978b8733) by [Manoj Gautam](https://x.com/gtm0x01)
+
+- **[March 5 - $???]** [Unauthorized access to Facebook creator’s professional dashboard](https://gtm0x01.medium.com/unauthorized-access-to-facebook-creators-professional-dashboard-e35d98644258) by [Manoj Gautam](https://x.com/gtm0x01)
+
 - **[Feb 27 - $???]** [0-Click Account Takeover on Facebook](https://samiparyal.medium.com/0-click-account-takeover-on-facebook-e4120651e23e) by [Samip Aryal](https://twitter.com/samiparyal)
+
+- **[July 30 - $???]** [Stealing First Party Access Token of Facebook Users: Meta Bug Bounty](https://manojgautam520.com.np/2024/02/23/disclose-assigned-apps-of-any-facebook-user/) by [Manoj Gautam](https://x.com/gtm0x01)
+
 - **[Feb 04 - $???]** [XSS in Excalidraw used in Meta Messenger](https://spaceraccoon.dev/clipboard-microsoft-whiteboard-excalidraw-meta/?fbclid=IwAR0nckrTov2NWGB64Js9nLbac5CT2tdCYn-RV0E0B7dIlHL0pAglV035f1E) by [Eugene Lim](https://x.com/spaceraccoonsec)
 
 ### 2023:-
@@ -90,7 +100,7 @@ The template to follow when adding new writeups:
 - **[Sep 29 - $10,000]** [Malicious Android Applications can takeover Facebook/Workplace accounts](https://ysamm.com/?p=729) by [Samm0uda](https://twitter.com/samm0uda)
 - **[Sep 29 - $500]** [Force Browsing bug at Facebook business plan](https://dewcode.medium.com/force-browsing-bug-at-facebook-business-plan-500-bounty-73d1bb4883af) by [Dewanand Vishal](https://dewcode.medium.com/)
 - **[Sep 23 - $725]** [Messenger for MacOS contained hardcoded FB token](https://www.vulnano.com/2021/09/facebook-messenger-for-macos-contained.html?fbclid=IwAR2iT6KOZYRE6xaAjDRtDWqmyyZSmLK_UBXz3_L7x9OtqbQ04bkLJB_jIQE) by [Dzmitry](https://www.vulnano.com/)
-- **[Sep 15 - $18,250]** [A Facebook bug that exposes email/phone number to your friends](https://iamsaugat.medium.com/a-facebook-bug-that-exposes-email-phone-number-to-your-friends-a980d24e5ea8) by [Saugat Pokharel](https://twitter.com/saugatpk5)
+- **[Sep 15 - $18,250]** [A Facebook bug that exposes email/phone number to your friends](https://iamsaugat.medium.com/a-facebook-bug-that-exposes-email-phone-number-to-your-friends-a980d24e5ea8) by [Saugat Pokharel](https://twitter.com/saugatscript)
 - **[Sep 08 - $???]** [Facebook email disclosure and account takeover](https://rikeshbaniyaaa.medium.com/facebook-email-disclosure-and-account-takeover-ecdb44ee12e9) by [Rikesh Baniya](https://rikeshbaniyaaa.medium.com/)
 - **[Sep 03 - $126,000]** [Tale of Account Takeovers](https://ysamm.com/?p=708) by [Samm0uda](https://twitter.com/samm0uda)
 - **[Sep 01 - $1,000]** [Bypassing 2-Factor Authentication for Facebook Business Manager](https://theshubh77.medium.com/bypassing-2-factor-authentication-for-facebook-business-manager-bounty-1000-usd-c78c858459d6) by [Shubham Bhamare](https://theshubh77.medium.com/)
@@ -178,7 +188,7 @@ The template to follow when adding new writeups:
 - **[Dec 31 - $ 10,000]** [Account takeovers in third party websites](https://ysamm.com/?p=510) by [Samm0uda](https://twitter.com/samm0uda)
 - **[Dec 31 - $ 500]** [Blocked fundraiser organizer unable to remove themseleves](https://medium.com/bugbountywriteup/facebook-bug-bounty-500-usd-a-blocked-fundraiser-organizer-would-be-unable-to-view-or-remove-5da9f86d2fa0) by [Vivek PS](https://vivekps143.medium.com/)
 - **[Dec 26 - $ 1,500]** [Facebook page admin disclosure by "Message Seller" ](https://theshubh77.medium.com/facebook-page-admin-disclosure-by-message-seller-button-bounty-1500-usd-caaa2eac4121) by [Shubham Bhamare](https://twitter.com/TheShubh77)
-- **[Dec 20 - $ 13,125]** [How I was able to view anyone’s private email and birthday](https://saugatpokharel.medium.com/this-is-how-i-was-able-to-view-anyones-private-email-and-birthday-on-instagram-1469f44b842b) by [Saugat Pokharel](https://twitter.com/saugatpk5)
+- **[Dec 20 - $ 13,125]** [How I was able to view anyone’s private email and birthday](https://saugatpokharel.medium.com/this-is-how-i-was-able-to-view-anyones-private-email-and-birthday-on-instagram-1469f44b842b) by [Saugat Pokharel](https://twitter.com/saugatscript)
 - **[Dec 19 - $ 1,000]** [Finding the hidden members of the private events](https://medium.com/bugbountywriteup/facebook-bug-bounty-finding-the-hidden-members-of-the-private-events-977dc1784ff9) by [Vivek PS](https://vivekps143.medium.com/)
 - **[Dec 12 - $ 5,000]** [Confirm an email address belonging to a specific user](https://medium.com/@yaala/confirm-an-email-address-belonging-to-a-specific-user-fe9c305e0af) by [Abdellah Yaala](https://medium.com/@yaala)
 - **[Dec 11 - $ 7,500]** [How I hacked Facebook: Part One](https://alaa.blog/2020/12/how-i-hacked-facebook-part-one/) by [Alaa Abdulridha](https://twitter.com/alaa0x2)
@@ -201,7 +211,7 @@ The template to follow when adding new writeups:
 - **[Sep 15 - $ ???]** [How I Accidentally Got My First Bounty From Facebook	](https://medium.com/bugbountywriteup/how-i-accidentally-got-my-first-bounty-from-facebook-facebook-bug-bounty-2020-c12bd2ad8575) by [Bishal Shrestha](https://twitter.com/bishal0x01)
 - **[Sep 12 - $ ???]** [How I Hacked Facebook Again! Unauthenticated RCE on MobileIron MDM](https://blog.orange.tw/2020/09/how-i-hacked-facebook-again-mobileiron-mdm-rce.html) by [Orange Tsai](https://twitter.com/orange_8361)
 - **[Aug 18 - $ 500]** [How could I Tag Photo to any user’s Scrapbook on Facebook](https://medium.com/bugbountywriteup/how-could-i-tag-photo-to-any-users-scrapbook-on-facebook-23ab15e6e4b4) by [Raja Sudhakar](https://twitter.com/Rajasudhakar)
-- **[Aug 14 - $ 6,000]** [Deleted data stored permanently on Instagram? Facebook Bug Bounty 2020](https://medium.com/nassec-cybersecurity-writeups/deleted-data-stored-permanently-on-instagram-facebook-bug-bounty-2020-26074c229955) by [Saugat Pokharel](https://twitter.com/saugatpk5)
+- **[Aug 14 - $ 6,000]** [Deleted data stored permanently on Instagram? Facebook Bug Bounty 2020](https://medium.com/nassec-cybersecurity-writeups/deleted-data-stored-permanently-on-instagram-facebook-bug-bounty-2020-26074c229955) by [Saugat Pokharel](https://twitter.com/saugatscript)
 - **[Aug 11 - $ ???]** [Group Admin Can’t Able to Moderate Comments](https://medium.com/@prakashpanta1999/group-admin-cant-able-to-moderate-comments-when-posted-through-page-facebook-bug-bounty-2020-16c2d04a27cb) by [Prakash Panta](https://twitter.com/Prakashpanta268)
 - **[Aug 10 - $ ???]** [My 2nd 4digit Bug Bounty From Facebook	](https://medium.com/@sudipshah_66336/my-2nd-4digit-bug-bounty-from-facebook-99baa727ed02) by [Sudip Shah	](https://medium.com/@sudipshah_66336)
 - **[Aug 08 - $ 500]** [Reflected XSS in Facebook’s mirror websites](https://medium.com/bugbountywriteup/reflected-xss-in-facebooks-mirror-websites-4384b4eb3e11) by [Sudhanshu Rajbhar](https://twitter.com/sudhanshur705)
@@ -210,10 +220,8 @@ The template to follow when adding new writeups:
 - **[July 17 - $ ???]** [Story Of 4 digit bounty](https://medium.com/@sudipshah_66336/the-story-of-my-first-4-digit-bounty-from-facebook-3a29830e03cd) by [Sudip Shah	](https://twitter.com/ashokcpg)
 - **[July 02 - $ 1500]** [Browser Anamoly](https://blog.easysiem.com/application-security/case-study-i-browser-anomaly-with-facebook-apps-1500usd) by [easySIEM](https://twitter.com/easySIEM)
 - **[July 02 - $ 5500]** [Admin disclosure of Facebook verified pages](https://ysamm.com/?p=479) by [Samm0uda](https://twitter.com/samm0uda)
-- **[June 25 - $ ???]** [Hidden Comments](https://medium.com/@saugatpokharel/able-to-create-hidden-comment-by-blocking-an-admin-facebook-bug-bounty-2020-c62bd10712f) by [Saugat Pokharel](https://twitter.com/saugatpk5)
 - **[June 21 - $ ???]** [XSS-On-Facebook](https://medium.com/@win3zz/simple-story-of-some-complicated-xss-on-facebook-8a9c0d80969d) by [Bipin Jitiya](https://twitter.com/win3zz)
 - **[June 20 - $ 1500]** [Information Disclosure On Facebook](https://alaa.blog/2020/06/how-did-i-found-information-disclosure-on-facebook-writeup/) by [Alaa Abdulridha](https://twitter.com/Madrid89001310)
-- **[June 18 - $ ???]** [Page-Admin-Disclosure](https://medium.com/@saugatpokharel/replying-on-livestream-leading-to-page-admin-disclosure-facebook-bug-bounty-b24792a19638) by [Saugat Pokharel](https://twitter.com/saugatpk5)
 - **[June 14 - $ ???]** [Privilege escalation in Partners Portal to Admin access](https://ysamm.com/?p=460) by [Samm0uda](https://twitter.com/samm0uda)
 - **[June 14 - $ ???]** [Disclose the Instagram account linked to a Facebook user account or page](https://ysamm.com/?p=450) by [Samm0uda](https://twitter.com/samm0uda)
 - **[June 14 - $ ???]** [Internal directories enumeration in www](https://ysamm.com/?p=458) by [Samm0uda](https://twitter.com/samm0uda)
@@ -221,7 +229,6 @@ The template to follow when adding new writeups:
 - **[June 02 - $ 10000]** [Another image removal vulnerability on Facebook](https://blog.darabi.me/2020/06/image-removal-vulnerability-on-facebook.html) by [Pouya Darabi](https://twitter.com/Pouyadarabi)
 - **[May 28 - $ ???]** [How I made $31500 by submitting a bug to Facebook](https://medium.com/@win3zz/how-i-made-31500-by-submitting-a-bug-to-facebook-d31bb046e204) by [Bipin Jitiya](https://twitter.com/win3zz)
 - **[May 28 - $ ???]** [How I was able to see Private Video Uploader Via Facebook Rights Manager](https://medium.com/@kishoretk/how-i-was-able-to-see-identity-of-a-private-video-up-loader-via-rights-manager-responsible-39d996517b6e) by [Kishore TK](https://twitter.com/kishoretk_off)
-- **[May 21- $ ???]** [Cannot Revoke Session on Messenger for Kids](https://medium.com/@saugatpokharel/cannot-revoke-session-on-messenger-for-kids-facebook-bug-bounty-2020-9505ca201ec7) by [Saugat Pokharel](https://twitter.com/saugatpk5)
 - **[May 21 - $ ???]** [Bypassing Message Request inbox](https://medium.com/@yaala/bypassing-message-request-inbox-cf54f859dd25) by [Abdellah Yaala](https://twitter.com/yaalaab)
 - **[May 20 - $ ???]** [Change any link at https://fbwat.ch/](https://philippeharewood.com/change-any-link-at-https-fbwat-ch/) by [Philippe Harewood](https://twitter.com/phwd)
 - **[May 20 - $ 7500]** [Become member of close & public group](https://medium.com/@yaala/become-member-of-close-public-group-9564c359c050) by [abdellah yaala](https://medium.com/@yaala)
@@ -232,7 +239,6 @@ The template to follow when adding new writeups:
 - **[May 02 - $ ???]** [Exposure of Facebook object type by knowing the object ID](https://ysamm.com/?p=444) by [	Samm0uda](https://twitter.com/samm0uda)
 - **[May 02 - $ ???]** [Add draft subtitles to any Facebook video and Full Path Disclosure](https://ysamm.com/?p=437) by [Samm0uda](https://twitter.com/samm0uda)
 - **[Apr 16 - $ 750]** [Recieving instagram notifications after Logout](https://fadhilthomas.github.io/facebook-white-hat-01/) by [Jane Manchun Wong](https://twitter.com/wongmjane)
-- **[Apr 04 - $ ???]** [Cannot Delete Post on Facebook Group: Facebook Bug Bounty](https://medium.com/@saugatpokharel/cannot-delete-post-on-facebook-group-facebook-bug-bounty-4f2661655c3a) by [Saugat Pokharel](https://twitter.com/saugatpk5)
 - **[Apr 01 - $ ???]** [The story of my first ever, $xxxx](https://medium.com/@ashokcpg/the-story-of-my-first-ever-1500-bounty-from-facebook-49eb64d26160) by [Ashok Chapagai](https://twitter.com/ashokcpg)
 - **[Mar 14 - $ ???]** [Blocked User Can Send Notification Due to Logical Bug](https://medium.com/bugbountywriteup/blocked-user-can-send-notification-due-to-logical-bug-in-instagram-first-instagram-bug-2bd09aa52f14) by [Divyanshu Shukla
 ](https://medium.com/@justm0rph3u5)
@@ -299,7 +305,7 @@ The template to follow when adding new writeups:
 - **[July 15 - $ ???]** [Sending messages as a page with jobmanager permission](https://medium.com/@0x01devansh/facebook-bug-sending-messages-as-a-page-with-jobmanager-permission-763dc0d8e32c) by [Devansh batham](https://twitter.com/devanshwolf)
 - **[July 14 - $ 30,000]** [How I Could Have Hacked Any Instagram Account](https://thezerohack.com/hack-any-instagram#articlescroll) by [Laxman Muthiyah](https://twitter.com/LaxmanMuthiyah)
 - **[July 12 - $ 500]** [Facebook Bug bounty page admin disclose bug](https://medium.com/@yusuffurkan/facebook-bug-bounty-page-admin-disclose-bug-facebook-android-app-c0fa50459177) by [Yusuf Furkan](https://twitter.com/h1_yusuf)
-- **[July 04 - $ 2000]** [This is how I managed to win $2000 through Facebook Bug Bounty](https://medium.com/@saugatpokharel/this-is-how-i-managed-to-win-2000-through-facebook-bug-bounty-a7d531d5097e) by [Saugat Pokharel](https://twitter.com/saugatpk5)
+- **[July 04 - $ 2000]** [This is how I managed to win $2000 through Facebook Bug Bounty](https://medium.com/@saugatpokharel/this-is-how-i-managed-to-win-2000-through-facebook-bug-bounty-a7d531d5097e) by [Saugat Pokharel](https://twitter.com/saugatscript)
 - **[July 04 - $ 500]** [Unremovable Co-Host in facebook page events](https://medium.com/@ritishkumarsingh/facebook-vulnerability-unremovable-co-host-in-facebook-page-events-695729d6a09d) by [Ritish Kumar Singh](https://medium.com/@ritishkumarsingh)
 - **[June 28 - $ ???]** [Page admin disclosure](https://pwnsec.ninja/2019/06/28/facebook-bugbounty-short-story-on-page-admin-disclosure/) by [Bijan Murmu](https://twitter.com/0xBijan)
 - **[June 26 - $ ???]** [Toggle Group Rules Agreement as a non-member](https://philippeharewood.com/toggle-group-rules-agreement-as-a-non-member/) by [Philippe Harewood](https://twitter.com/phwd)
