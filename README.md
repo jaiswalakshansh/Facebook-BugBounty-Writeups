@@ -18,7 +18,7 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2024:- 
-- **[Feb 27 - $???]** [0-Click Account Takeover on Facebook](https://samiparyal.medium.com/0-click-account-takeover-on-facebook-e4120651e23e) by [Samip Aryal](https://twitter.com/samiparyal)
+- **[Feb 27 - $???]** [0-Click Account Takeover on Facebook](https://samiparyal.medium.com/0-click-account-takeover-on-facebook-e4120651e23e) by [Samip Aryal](https://twitter.com/samiparyal_)
 - **[Feb 04 - $???]** [XSS in Excalidraw used in Meta Messenger](https://spaceraccoon.dev/clipboard-microsoft-whiteboard-excalidraw-meta/?fbclid=IwAR0nckrTov2NWGB64Js9nLbac5CT2tdCYn-RV0E0B7dIlHL0pAglV035f1E) by [Eugene Lim](https://x.com/spaceraccoonsec)
 
 ### 2023:-
