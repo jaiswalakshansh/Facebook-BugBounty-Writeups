@@ -18,7 +18,7 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2024:- 
-- **[Dec 06 - $BOUNTY]** [How I could have deleted entries for any Facebook Forms](https://medium.com/@ashutoshk01/how-i-could-have-deleted-entries-leads-custom-stages-for-any-facebook-forms-9b3090f7fc0c) by [Ashutosh Kumar](https://www.linkedin.com/in/ashutosh-kumar-b4a44694/)
+- **[Dec 06 - $???]** [How I could have deleted entries for any Facebook Forms](https://medium.com/@ashutoshk01/how-i-could-have-deleted-entries-leads-custom-stages-for-any-facebook-forms-9b3090f7fc0c) by [Ashutosh Kumar](https://www.linkedin.com/in/ashutosh-kumar-b4a44694/)
 - **[Aug 22 - $10,000]** [Instagram and Meta 2FA Bypass by Unprotected Backup Code Retrieval in Accounts Center](https://medium.com/@scriptshuva/instagram-and-meta-2fa-bypass-by-unprotected-backup-code-retrieval-in-accounts-center-c735ff650f10) by [Shuva Saha](https://x.com/scriptshuva)
 - **[Aug 16 - $500]** [Reporting a HTMLi(Accidental Bug)](https://armx64.medium.com/500-from-meta-by-reporting-a-htmli-accidental-bug-fef2e5a0f4c4) by [A.R Maheer](https://armx64.medium.com/)
 - **[July 30 - $???]** [Stealing First Party Access Token of Facebook Users: Meta Bug Bounty](https://iamsaugat.medium.com/stealing-first-party-access-token-of-facebook-users-meta-bug-bounty-44b3b2e87d07) by [Saugat Pokharel](https://x.com/saugatscript)
