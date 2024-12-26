@@ -18,11 +18,13 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2024:- 
+- **[Dec 06 - $BOUNTY]** [How I could have deleted entries for any Facebook Forms](https://medium.com/@ashutoshk01/how-i-could-have-deleted-entries-leads-custom-stages-for-any-facebook-forms-9b3090f7fc0c) by [Ashutosh Kumar](https://www.linkedin.com/in/ashutosh-kumar-b4a44694/)
 - **[Aug 22 - $10,000]** [Instagram and Meta 2FA Bypass by Unprotected Backup Code Retrieval in Accounts Center](https://medium.com/@scriptshuva/instagram-and-meta-2fa-bypass-by-unprotected-backup-code-retrieval-in-accounts-center-c735ff650f10) by [Shuva Saha](https://x.com/scriptshuva)
 - **[Aug 16 - $500]** [Reporting a HTMLi(Accidental Bug)](https://armx64.medium.com/500-from-meta-by-reporting-a-htmli-accidental-bug-fef2e5a0f4c4) by [A.R Maheer](https://armx64.medium.com/)
 - **[July 30 - $???]** [Stealing First Party Access Token of Facebook Users: Meta Bug Bounty](https://iamsaugat.medium.com/stealing-first-party-access-token-of-facebook-users-meta-bug-bounty-44b3b2e87d07) by [Saugat Pokharel](https://x.com/saugatscript)
 - **[July 27 - $???]** [Jailbreak of Meta AI (Llama -3.1) revealing configuration details](https://medium.com/@kiranmaraju/jailbreak-of-meta-ai-llama-3-1-revealing-configuration-details-9f0759f5006a) by [Kiran Maraju](https://medium.com/@kiranmaraju)
 - **[July 17 - $???]** [Bypassing Account Suspension Using Anonymous Posting](https://ph-hitachi.medium.com/bypassing-account-suspension-using-anonymous-posting-facebook-bug-bounty-b204433c98d1) by [NAME](TWITTER_URL)
+- **[12 April - $1000]** [READ LOCKED WHATSAPP CHATS ON ANDROID AND IOS](https://medium.com/@xpl0itmE/read-locked-whatsapp-chats-on-android-and-ios-da1b39dd3ce2) by [Himanshu Bharti](https://twitter.com/xpl0itmE)
 - **[Jan 31 - $???]** [Bypass Admin approval, Mute Member and Posting Permissions for Only admins](https://blog.flawminers.com/index.php/2024/01/30/bypass-admin-approval-mute-member-and-posting-permissions-for-only-admins-in-facebook-groups/) by [Sarmad Hassan](https://x.com/JubaBaghdad)
 - **[Jan 31 - $???]** [Disclose private mockups for other users in facebook Creative Hub](https://blog.flawminers.com/index.php/2024/01/30/disclose-private-mockups-for-other-users-in-facebook-creative-hub/) by [Sarmad Hassan](https://x.com/JubaBaghdad)
 - **[Jan 31 - $???]** [Persistent Distorted Posts Issue and Unremovable Content in Facebook Group](https://blog.flawminers.com/index.php/2024/01/30/persistent-distorted-posts-issue-and-unremovable-content-in-facebook-group/) by [Sarmad Hassan](https://x.com/JubaBaghdad)
