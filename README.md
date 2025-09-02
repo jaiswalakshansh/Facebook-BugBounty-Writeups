@@ -17,6 +17,20 @@ The template to follow when adding new writeups:
 
 ## Writeups
 
+### 2025:- 
+- **[Sep 02, 2025 - $111750]** [Remote Code Execution in Facebook Messenger](https://www.vulnano.com/2025/09/remote-code-execution-though.html?) by [vulnano](https://www.vulnano.com)
+- **[Aug 16, 2025 - $???]** [Disclose Page Admins via Facebook Appointments](https://medium.com/@ramzybouyahya/disclose-page-admins-via-facebook-appointments-4925b899e79a) by [Ramzy Bouyahya](https://medium.com/@ramzybouyahya)
+- **[Aug 03, 2025 - $???]** [WhatsApp Desktop DoS via Corrupted Thumbnails in PDF and Location Messages](https://medium.com/@aditisinghh/whatsapp-desktop-dos-via-corrupted-thumbnails-in-pdf-and-location-messages-d31fddcac5a7) by [Aditi Singh](https://medium.com/@aditisinghh)
+- **[Jul 19, 2025 - $5,375]** [IDOR: Creating a Share Link for Any Campaign Planner in Facebook Business](https://sancyty.medium.com/5375-bounty-idor-creating-a-share-link-for-any-campaign-planner-in-facebook-business-03f0994d4d16) by [Sancyty](https://sancyty.medium.com)
+- **[Jul 17, 2025 - $???]** [Facebook Instant Experiences Vulnerability](https://ash-king.co.uk/blog/Facebook-Instant-Experiences-Vulnerability) by [Ash King](https://ash-king.co.uk)
+- **[Jun 24, 2025 - $???]** [Bypass Email Confirmation on Meta (FB/Insta)](https://rohanniraula.com.np/blog/bypass-email-confirmation-meta-fb-insta.html?fbclid=IwY2xjawMj4-xleHRuA2FlbQIxMABicmlkETFhRXd2MHVCUEFCZmxBangxAR4TTbKFwfGAKzxTPWu6QX1k0bUrKPm2zCr_jCd8VWJxyz-Niai5Z6B1Qj4Oiw_aem_MHk2SBfnmf4UEPaKnF9t9A) by [Rohan Nirula](https://rohanniraula.com.np)
+- **[Jun 18, 2025 - $???]** [Poll Setting Bypass in Facebook Groups Post Editing](https://medium.com/@ceecench/poll-setting-bypass-in-facebook-groups-post-editing-lets-members-add-options-despite-restrictions-57f67fd0441a) by [Ceecench](https://medium.com/@ceecench)
+- **[May 28, 2025 - $12,500]** [Virtual Holes in Virtual Worlds (Metaverse Bug Hunt)](https://medium.com/@maxpasqua/virtual-holes-in-virtual-worlds-12-5k-metaverse-bug-hunt-7cfe841bc1cb) by [Max Pasqua](https://medium.com/@maxpasqua)
+- **[May 2025 - $???]** [Instagram Notes Audio Leakage via URL Extraction](https://github.com/i12gocaj/Instagram-Notes-Audio-Leakage-via-URL-Extraction-Fixed?fbclid=IwY2xjawMj3qpleHRuA2FlbQIxMQABHnLyFDj-BG5kbT9fz5vRbTG5TxtyiiZiASzf-gmYXpcqFPsXOMTiDbM6tkGf_aem_J5xSLMW94kD2rpemst7oxA) by [i12gocaj](https://github.com/i12gocaj)
+- **[May 18, 2025 - $???]** [Stored XSS at Meta Careers](https://almuntadhar.medium.com/meta-bbp-stored-xss-at-meta-careers-c0bf074bddfa) by [Almuntadhar](https://almuntadhar.medium.com)
+- **[Apr 30, 2025 - $???]** [Improper Data Deletion on Meta AI](https://allawe.medium.com/meta-bug-bounty-improper-data-deletion-on-meta-ai-29113382bcc8) by [Allawe](https://allawe.medium.com)
+- **[Feb 25, 2025 - $1,000]** [How I Discovered a Facebook Privacy Loophole](https://infosecwriteups.com/how-i-discovered-a-facebook-privacy-loophole-and-earned-1000-44318d196bfc) by [Vivek PS](https://medium.com/@vivekps143)
+
 ### 2024:- 
 - **[Dec 06 - $???]** [How I could have deleted entries for any Facebook Forms](https://medium.com/@ashutoshk01/how-i-could-have-deleted-entries-leads-custom-stages-for-any-facebook-forms-9b3090f7fc0c) by [Ashutosh Kumar](https://www.linkedin.com/in/ashutosh-kumar-b4a44694/)
 - **[Aug 22 - $10,000]** [Instagram and Meta 2FA Bypass by Unprotected Backup Code Retrieval in Accounts Center](https://medium.com/@scriptshuva/instagram-and-meta-2fa-bypass-by-unprotected-backup-code-retrieval-in-accounts-center-c735ff650f10) by [Shuva Saha](https://x.com/scriptshuva)
