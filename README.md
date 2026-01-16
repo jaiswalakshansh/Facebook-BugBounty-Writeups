@@ -17,6 +17,12 @@ The template to follow when adding new writeups:
 
 ## Writeups
 
+### 2026:-
+- **[Jan 15 - $62,500]** [Self‑XSS in Facebook Payments Flow Leading to Account Takeover](https://ysamm.com/uncategorized/2025/01/15/self-xss-facebook-payments.html) by [Youssef Sammouda](https://twitter.com/samm0uda)
+- **[Jan 15 - $30,000]** [Two‑Click account takeover via FXAuth token abuse ](http://ysamm.com/uncategorized/2025/01/15/steal-fxauth-leads-instagram-ato.html) by [Youssef Sammouda](https://twitter.com/samm0uda)
+- **[Jan 15 - $24,000]** [Datr cookie theft and AI leads to Facebook account takeover via trusted device recovery](https://ysamm.com/uncategorized/2025/01/15/steal-dtsg-cookie.html) by [Youssef Sammouda](https://twitter.com/samm0uda)
+
+
 ### 2025:- 
 - **[Sep 02, 2025 - $111750]** [Remote Code Execution in Facebook Messenger](https://www.vulnano.com/2025/09/remote-code-execution-though.html?) by [Dmitry Lukyanenko](https://www.vulnano.com)
 - **[Aug 16, 2025 - $???]** [Disclose Page Admins via Facebook Appointments](https://medium.com/@ramzybouyahya/disclose-page-admins-via-facebook-appointments-4925b899e79a) by [Ramzy Bouyahya](https://medium.com/@ramzybouyahya)
