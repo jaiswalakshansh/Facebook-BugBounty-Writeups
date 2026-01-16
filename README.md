@@ -24,6 +24,7 @@ The template to follow when adding new writeups:
 
 
 ### 2025:- 
+- **[Dec 02, 2025 - $???]** [Co-Hosts can prevent Hosts from accessing the “About” tab in Facebook Events](https://medium.com/@th3_pr0t3ct0r/co-hosts-can-prevent-hosts-from-accessing-the-about-tab-in-facebook-events-fdbc324c6bfb) by [Rohmad Hidayah](https://www.linkedin.com/in/rohmad-hidayah-971007382/)
 - **[Sep 02, 2025 - $111750]** [Remote Code Execution in Facebook Messenger](https://www.vulnano.com/2025/09/remote-code-execution-though.html?) by [Dmitry Lukyanenko](https://www.vulnano.com)
 - **[Aug 16, 2025 - $???]** [Disclose Page Admins via Facebook Appointments](https://medium.com/@ramzybouyahya/disclose-page-admins-via-facebook-appointments-4925b899e79a) by [Ramzy Bouyahya](https://medium.com/@ramzybouyahya)
 - **[Aug 03, 2025 - $???]** [WhatsApp Desktop DoS via Corrupted Thumbnails in PDF and Location Messages](https://medium.com/@aditisinghh/whatsapp-desktop-dos-via-corrupted-thumbnails-in-pdf-and-location-messages-d31fddcac5a7) by [Aditi Singh](https://medium.com/@aditisinghh)
