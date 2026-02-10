@@ -18,6 +18,7 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2026:-
+- **[Jan 22 - $???]** [Private Profile Can Reply to Posts of Non-Followers on Threads Web](https://www.linkedin.com/posts/darktrace0_i-identified-a-business-logic-flaw-on-threads-activity-7419940959251202048-nXfm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF2rA7EBqYYvpSNm9xyFtQOoCLetdWbF6EE) by [Abu Idris Al-Muhaqqiq](https://www.linkedin.com/in/darktrace0/)
 - **[Jan 15 - $62,500]** [Self‑XSS in Facebook Payments Flow Leading to Account Takeover](https://ysamm.com/uncategorized/2025/01/15/self-xss-facebook-payments.html) by [Youssef Sammouda](https://twitter.com/samm0uda)
 - **[Jan 15 - $30,000]** [Two‑Click account takeover via FXAuth token abuse ](http://ysamm.com/uncategorized/2025/01/15/steal-fxauth-leads-instagram-ato.html) by [Youssef Sammouda](https://twitter.com/samm0uda)
 - **[Jan 15 - $24,000]** [Datr cookie theft and AI leads to Facebook account takeover via trusted device recovery](https://ysamm.com/uncategorized/2025/01/15/steal-dtsg-cookie.html) by [Youssef Sammouda](https://twitter.com/samm0uda)
