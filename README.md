@@ -18,6 +18,7 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2026:-
+- **[Feb 9 - $???]** [Canceled Facebook Event Name Can Still Be Modified via GraphQL API by Co-Host](https://medium.com/@darktrace_0/canceled-facebook-event-name-can-still-be-modified-via-graphql-api-by-co-host-563c99c427ef) by [Abu Idris Al-Muhaqqiq](https://www.linkedin.com/in/darktrace0/)
 - **[Jan 15 - $62,500]** [Self‑XSS in Facebook Payments Flow Leading to Account Takeover](https://ysamm.com/uncategorized/2025/01/15/self-xss-facebook-payments.html) by [Youssef Sammouda](https://twitter.com/samm0uda)
 - **[Jan 15 - $30,000]** [Two‑Click account takeover via FXAuth token abuse ](http://ysamm.com/uncategorized/2025/01/15/steal-fxauth-leads-instagram-ato.html) by [Youssef Sammouda](https://twitter.com/samm0uda)
 - **[Jan 15 - $24,000]** [Datr cookie theft and AI leads to Facebook account takeover via trusted device recovery](https://ysamm.com/uncategorized/2025/01/15/steal-dtsg-cookie.html) by [Youssef Sammouda](https://twitter.com/samm0uda)
