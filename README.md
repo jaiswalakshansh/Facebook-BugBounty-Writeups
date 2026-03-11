@@ -18,6 +18,7 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2026:-
+- **[Mar 11 - $???]** [Bypassing Threads Block System: Blocked Users Can Still View Custom Feed Content](https://medium.com/@darktrace_0/bypassing-threads-block-system-blocked-users-can-still-view-custom-feed-content-61a320325691) by [Abu Idris Al-Muhaqqiq](https://www.linkedin.com/in/darktrace0/)
 - **[Jan 15 - $62,500]** [Self‑XSS in Facebook Payments Flow Leading to Account Takeover](https://ysamm.com/uncategorized/2025/01/15/self-xss-facebook-payments.html) by [Youssef Sammouda](https://twitter.com/samm0uda)
 - **[Jan 15 - $30,000]** [Two‑Click account takeover via FXAuth token abuse ](http://ysamm.com/uncategorized/2025/01/15/steal-fxauth-leads-instagram-ato.html) by [Youssef Sammouda](https://twitter.com/samm0uda)
 - **[Jan 15 - $24,000]** [Datr cookie theft and AI leads to Facebook account takeover via trusted device recovery](https://ysamm.com/uncategorized/2025/01/15/steal-dtsg-cookie.html) by [Youssef Sammouda](https://twitter.com/samm0uda)
