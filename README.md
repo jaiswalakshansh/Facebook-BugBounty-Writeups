@@ -18,6 +18,7 @@ The template to follow when adding new writeups:
 ## Writeups
 
 ### 2026:-
+- **[Mar 12 - $???]** [Ability to Add Non-Friends as Co-Hosts in Facebook Group Events](https://medium.com/@darktrace_0/ability-to-add-non-friends-as-co-hosts-in-facebook-group-events-6e099da3bc42) by [Abu Idris Al-Muhaqqiq](https://www.linkedin.com/in/darktrace0/)
 - **[Mar 11 - $???]** [Bypassing Threads Block System: Blocked Users Can Still View Custom Feed Content](https://medium.com/@darktrace_0/bypassing-threads-block-system-blocked-users-can-still-view-custom-feed-content-61a320325691) by [Abu Idris Al-Muhaqqiq](https://www.linkedin.com/in/darktrace0/)
 - **[Jan 22 - $???]** [Private Profile Can Reply to Posts of Non-Followers on Threads Web](https://www.linkedin.com/posts/darktrace0_i-identified-a-business-logic-flaw-on-threads-activity-7419940959251202048-nXfm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF2rA7EBqYYvpSNm9xyFtQOoCLetdWbF6EE) by [Abu Idris Al-Muhaqqiq](https://www.linkedin.com/in/darktrace0/)
 - **[Jan 15 - $62,500]** [Self‑XSS in Facebook Payments Flow Leading to Account Takeover](https://ysamm.com/uncategorized/2025/01/15/self-xss-facebook-payments.html) by [Youssef Sammouda](https://twitter.com/samm0uda)
